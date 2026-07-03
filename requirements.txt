@@ -1,0 +1,7 @@
+beautifulsoup4
+deep-translator
+requests
+sentence-transformers
+numpy
+Flask
+flask-cors

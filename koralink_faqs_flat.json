@@ -1,0 +1,942 @@
+
+[
+  {
+    "question": "hy",    "answer": "Hey! Welcome to KoraLink. How can I help you today?"
+  },  {
+    "question": "hlo",    "answer": "Hello! Welcome to KoraLink. How can I help you today?"
+  },  {
+    "question": "hi",    "answer": "Hello! Welcome to KoraLink. How can I help you today?"
+  },  {
+    "question": "hello",    "answer": "Hi! Welcome to KoraLink. What would you like to know?"
+  },  {
+    "question": "hey",    "answer": "Hey! How can I assist you today?"
+  },  {
+    "question": "good morning",    "answer": "Good morning! How can I help you?"
+  },  {
+    "question": "good afternoon",    "answer": "Good afternoon! What can I do for you?"
+  },  {
+    "question": "good evening",    "answer": "Good evening! How may I assist you?"
+  },  {
+    "question": "yo",    "answer": "Hello! How can I help you today?"
+  },  {
+    "question": "how are you",    "answer": "I'm doing great. Thanks for asking! How can I help you with KoraLink?"
+  },  {
+    "question": "how is your day",    "answer": "I'm always ready to help! What would you like to know?"
+  },  {
+    "question": "what are you doing",    "answer": "I'm here answering questions about KoraLink."
+  },  {
+    "question": "are you busy",    "answer": "Never too busy to help."
+  },  {
+    "question": "are you thinking",    "answer": "I'm processing your questions and searching for the best answer."
+  },  {
+    "question": "can we talk",    "answer": "Of course! Ask me anything related to KoraLink."
+  },  {
+    "question": "thanks",    "answer": "You're welcome!"
+  },  {
+    "question": "thank you",    "answer": "Happy to help!"
+  },  {
+    "question": "thanks a lot",    "answer": "You're very welcome."
+  },  {
+    "question": "appreciate it",    "answer": "Glad I could help."
+  },  {
+    "question": "bye",    "answer": "Goodbye! Have a wonderful day."
+  },  {
+    "question": "see you",    "answer": "See you next time!"
+  },  {
+    "question": "good night",    "answer": "Good night! Take care."
+  },  {
+    "question": "who are you",    "answer": "I'm the KoraLink Assistant. I can help answer questions about the KoraLink platform."
+  },  {
+    "question": "what are you",    "answer": "I'm an AI assistant for KoraLink."
+  },  {
+    "question": "are you a robot",    "answer": "Yes,I'm an AI assistant created to help answer questions about KoraLink."
+  },  {
+    "question": "who made you",    "answer": "I was built to assist users with information about the KoraLink platform."
+  },  {
+    "question": "what can you do",    "answer": "I can help explain the KoraLink platform features,user modules,financial workflows,and business rules outlined in the requirements."
+  },  {
+    "question": "how do you work",    "answer": "I process your questions and search through the KoraLink documentation to provide accurate answers about the system."
+  },  {
+    "question": "can you solve technical issues",    "answer": "I cannot fix bugs or access live platform data,but I can guide you on how the technical features are designed to work."
+  },  {
+    "question": "are you human",    "answer": "No,I am an AI assistant trained to read and explain the KoraLink platform specifications."
+  },  {
+    "question": "what language do you speak",    "answer": "I primarily communicate in English,but I can assist with platform details regarding Kinyarwanda localizations as well."
+  },  {
+    "question": "how do I use you",    "answer": "Simply ask me any question about the KoraLink marketplace,agent metrics,or requirements,and I will extract the answer for you."
+  },  {
+    "question": "what is koralink",    "answer": "KoraLink is a Digital Community Platform in Rwanda supported by the Mastercard Foundation,The Commons Project,and the ICT Chamber to empower youth through entrepreneurship."
+  },  {
+    "question": "tell me about koralink",    "answer": "KoraLink is a Digital Community Platform in Rwanda supported by the Mastercard Foundation,The Commons Project,and the ICT Chamber to empower youth through entrepreneurship."
+  },  {
+    "question": "what is koralink project",    "answer": "KoraLink is a Digital Community Platform in Rwanda supported by the Mastercard Foundation,The Commons Project,and the ICT Chamber to empower youth through entrepreneurship."
+  },  {
+    "question": "where is koralink located",    "answer": "KoraLink is based in Rwanda and serves communities across the country."
+  },  {
+    "question": "where is koralink based",    "answer": "KoraLink is based in Rwanda and serves communities across the country."
+  },  {
+    "question": "how do i become an agent",    "answer": "Apply through the official KoraLink website,complete the onboarding process,and finish the mandatory training."
+  },  {
+    "question": "how to join koralink",    "answer": "Apply through the official KoraLink website,complete the onboarding process,and finish the mandatory training."
+  },  {
+    "question": "how do i apply",    "answer": "Apply through the official KoraLink website,complete the onboarding process,and finish the mandatory training."
+  },  {
+    "question": "is training provided",    "answer": "Yes,KoraLink provides free onboarding and training covering entrepreneurship,sales techniques,and digital skills."
+  },  {
+    "question": "how do i get training",    "answer": "Yes,KoraLink provides free onboarding and training covering entrepreneurship,sales techniques,and digital skills."
+  },  {
+    "question": "does the app work on iphone",    "answer": "The KoraLink application is primarily designed for Android smartphones."
+  },  {
+    "question": "can i use ios for koralink",    "answer": "The KoraLink application is primarily designed for Android smartphones."
+  },  {
+    "question": "what products are sold",    "answer": "Agents can sell approved health and wellness products from trusted suppliers like the Society for Family Health (SFH)."
+  },  {
+    "question": "what can i sell",    "answer": "Agents can sell approved health and wellness products from trusted suppliers like the Society for Family Health (SFH)."
+  },  {
+    "question": "how do agents earn money",    "answer": "Agents earn commissions on every sale of health products and digital services processed through the app."
+  },  {
+    "question": "how do i get paid",    "answer": "Agents earn commissions on every sale of health products and digital services processed through the app."
+  },  {
+    "question": "how do i check my earnings",    "answer": "You can track your earnings,commissions,and sales performance directly via the dashboard in the KoraLink app."
+  },  {
+    "question": "how to see commissions",    "answer": "You can track your earnings,commissions,and sales performance directly via the dashboard in the KoraLink app."
+  },  {
+    "question": "can i pay bills",    "answer": "Yes,agents can provide digital services such as airtime top-ups and utility payments."
+  },  {
+    "question": "what digital services are there",    "answer": "Yes,agents can provide digital services such as airtime top-ups and utility payments."
+  },  {
+    "question": "is the app secure",    "answer": "Yes,the KoraLink application uses secure data handling protocols to protect your business information."
+  },  {
+    "question": "is my data safe",    "answer": "Yes,the KoraLink application uses secure data handling protocols to protect your business information."
+  },  {
+    "question": "how do i contact support",    "answer": "Contact the Rwanda ICT Chamber at info@ictchamber.rw or call +250 793 902 451."
+  },  {
+    "question": "who do i call for help",    "answer": "Contact the Rwanda ICT Chamber at info@ictchamber.rw or call +250 793 902 451."
+  },  {
+    "question": "what if i lose my phone",    "answer": "Contact KoraLink support immediately to secure your account and recover your access."
+  },  {
+    "question": "what if i cant log in",    "answer": "Contact KoraLink support immediately to secure your account and recover your access."
+  },  {
+    "question": "can i sell in my village",    "answer": "Agents are encouraged to serve their own local communities to maximize their reach and impact."
+  },  {
+    "question": "do i need to travel",    "answer": "Agents are encouraged to serve their own local communities to maximize their reach and impact."
+  },  {
+    "question": "how do i manage inventory",    "answer": "The app includes built-in inventory management features to help you track stock levels and product values."
+  },  {
+    "question": "how to track stock",    "answer": "The app includes built-in inventory management features to help you track stock levels and product values."
+  },  {
+    "question": "what is a digital community champion",    "answer": "A Digital Community Champion is another name for a KoraLink agent who serves their community."
+  },  {
+    "question": "what is a dcc",    "answer": "A Digital Community Champion is another name for a KoraLink agent who serves their community."
+  },  {
+    "question": "is koralink like jumia",    "answer": "No,KoraLink is a community-agent platform rather than a traditional consumer e-commerce site."
+  },  {
+    "question": "is it a normal marketplace",    "answer": "No,KoraLink is a community-agent platform rather than a traditional consumer e-commerce site."
+  },  {
+    "question": "can i use the app offline",    "answer": "Most features require an internet connection,though some data may be cached locally."
+  },  {
+    "question": "do i need internet",    "answer": "Most features require an internet connection,though some data may be cached locally."
+  },  {
+    "question": "how do i report a sale",    "answer": "Use the 'New Sale' feature in the application to record customer transactions instantly."
+  },  {
+    "question": "how to log a purchase",    "answer": "Use the 'New Sale' feature in the application to record customer transactions instantly."
+  },  {
+    "question": "are there many agents",    "answer": "There are over 2,00 active KoraLink Agents creating thousands of work opportunities in Rwanda."
+  },  {
+    "question": "how many people work at koralink",    "answer": "There are over 2,00 active KoraLink Agents creating thousands of work opportunities in Rwanda."
+  },  {
+    "question": "what is the agent academy",    "answer": "The Agent Academy is the E-Learning portal where you can improve your sales and business skills."
+  },  {
+    "question": "how to learn more",    "answer": "The Agent Academy is the E-Learning portal where you can improve your sales and business skills."
+  },  {
+    "question": "why was koralink created",    "answer": "It was created to reduce youth unemployment and improve access to essential health products."
+  },  {
+    "question": "what is the goal",    "answer": "It was created to reduce youth unemployment and improve access to essential health products."
+  },  {
+    "question": "can i change my password",    "answer": "You can reset your password using the recovery options in the app login screen."
+  },  {
+    "question": "forgot password",    "answer": "You can reset your password using the recovery options in the app login screen."
+  },  {
+    "question": "what do i do if stock runs out",    "answer": "Request restocking through your designated supervisor or the app's supply management interface."
+  },  {
+    "question": "how to restock",    "answer": "Request restocking through your designated supervisor or the app's supply management interface."
+  },  {
+    "question": "how to get more customers",    "answer": "Engage your community regularly and explain the benefits of the health products you offer."
+  },  {
+    "question": "sales tips",    "answer": "Engage your community regularly and explain the benefits of the health products you offer."
+  },  {
+    "question": "do i need a smartphone",    "answer": "An Android smartphone is required to run the KoraLink marketplace application."
+  },  {
+    "question": "what device do i need",    "answer": "An Android smartphone is required to run the KoraLink marketplace application."
+  },  {
+    "question": "can i work full time",    "answer": "KoraLink provides sustainable income opportunities,and many agents treat it as their primary business."
+  },  {
+    "question": "is this a job",    "answer": "KoraLink provides sustainable income opportunities,and many agents treat it as their primary business."
+  },  {
+    "question": "is there an app for agents",    "answer": "The app is called the KoraLink Marketplace,available on the Google Play Store."
+  },  {
+    "question": "what is the name of the app",    "answer": "The app is called the KoraLink Marketplace,available on the Google Play Store."
+  },  {
+    "question": "who supports koralink",    "answer": "Partners include the Mastercard Foundation,The Commons Project,and the ICT Chamber."
+  },  {
+    "question": "partners",    "answer": "Partners include the Mastercard Foundation,The Commons Project,and the ICT Chamber."
+  },  {
+    "question": "what if a customer complains",    "answer": "Listen to the customer's needs and contact support if you need help resolving a specific issue."
+  },  {
+    "question": "how to handle issues",    "answer": "Listen to the customer's needs and contact support if you need help resolving a specific issue."
+  },  {
+    "question": "how do i update the app",    "answer": "Update the app regularly through the Google Play Store to access the latest features."
+  },  {
+    "question": "is there a new version",    "answer": "Update the app regularly through the Google Play Store to access the latest features."
+  },  {
+    "question": "can i get a certificate",    "answer": "Upon completing training modules in the Agent Academy,you may be recognized for your skills."
+  },  {
+    "question": "does training give a certificate",    "answer": "Upon completing training modules in the Agent Academy,you may be recognized for your skills."
+  },  {
+    "question": "how do i delete my account",    "answer": "Contact KoraLink support to process any account closure requests."
+  },  {
+    "question": "how to quit",    "answer": "Contact KoraLink support to process any account closure requests."
+  },  {
+    "question": "is koralink for women",    "answer": "KoraLink encourages participation from all eligible youth,with special focus on empowering women."
+  },  {
+    "question": "is it for youth",    "answer": "KoraLink encourages participation from all eligible youth,with special focus on empowering women."
+  },  {
+    "question": "what is an agent's role",    "answer": "Your role is to manage stock,sell health products,and provide digital services to your neighbors."
+  },  {
+    "question": "what do i do daily",    "answer": "Your role is to manage stock,sell health products,and provide digital services to your neighbors."
+  },  {
+    "question": "how do i know if i am accepted",    "answer": "You will receive updates via your registered phone number or email."
+  },  {
+    "question": "application status",    "answer": "You will receive updates via your registered phone number or email."
+  },  {
+    "question": "are there fees to join",    "answer": "KoraLink training and onboarding are designed to be accessible; check the official site for current program details."
+  },  {
+    "question": "do i pay to become an agent",    "answer": "KoraLink training and onboarding are designed to be accessible; check the official site for current program details."
+  },  {
+    "question": "can i sell in multiple villages",    "answer": "Agents are usually assigned to specific zones; check your app for your operational area."
+  },  {
+    "question": "territory",    "answer": "Agents are usually assigned to specific zones; check your app for your operational area."
+  },  {
+    "question": "what if i dont have a bank account",    "answer": "The platform utilizes mobile money and other local digital financial services."
+  },  {
+    "question": "how do i get paid",    "answer": "The platform utilizes mobile money and other local digital financial services."
+  },  {
+    "question": "how to improve sales",    "answer": "Focus on high-demand products and keep your customer records updated in the app."
+  },  {
+    "question": "how to grow",    "answer": "Focus on high-demand products and keep your customer records updated in the app."
+  },  {
+    "question": "is it hard to use",    "answer": "The app is designed to be intuitive for agents to manage sales and inventory easily."
+  },  {
+    "question": "is the app simple",    "answer": "The app is designed to be intuitive for agents to manage sales and inventory easily."
+  },  {
+    "question": "what is the mission of koralink",    "answer": "To empower youth with digital tools and skills to create jobs and improve community health."
+  },  {
+    "question": "how do i check notifications",    "answer": "Check the notifications tab in the KoraLink app to see updates from your supervisor."
+  },  {
+    "question": "alerts",    "answer": "Check the notifications tab in the KoraLink app to see updates from your supervisor."
+  },  {
+    "question": "is there a web version",    "answer": "While there is a web platform,agents primarily use the Android app for daily operations."
+  },  {
+    "question": "can i use a computer",    "answer": "While there is a web platform,agents primarily use the Android app for daily operations."
+  },  {
+    "question": "how do i join the academy",    "answer": "Access the Agent Academy through the link provided during your onboarding."
+  },  {
+    "question": "academy login",    "answer": "Access the Agent Academy through the link provided during your onboarding."
+  },  {
+    "question": "what are the health products",    "answer": "These include various wellness,hygiene,and health-related goods curated for community needs."
+  },  {
+    "question": "can i pay for electricity",    "answer": "Yes,you can facilitate utility payments as part of the digital services offered."
+  },  {
+    "question": "utility payments",    "answer": "Yes,you can facilitate utility payments as part of the digital services offered."
+  },  {
+    "question": "how do i get airtime",    "answer": "Airtime is one of the key digital services you can sell to your community members."
+  },  {
+    "question": "selling airtime",    "answer": "Airtime is one of the key digital services you can sell to your community members."
+  },  {
+    "question": "are there many products",    "answer": "The catalog is curated to include the most essential items for community health."
+  },  {
+    "question": "catalog size",    "answer": "The catalog is curated to include the most essential items for community health."
+  },  {
+    "question": "what is the phone number for support",    "answer": "You can reach out to the ICT Chamber support at +250 793 902 451."
+  },  {
+    "question": "help",    "answer": "I am here to help you with information about KoraLink operations,agent tasks,and platform features."
+  },  {
+    "question": "i need assistance",    "answer": "I am here to help you with information about KoraLink operations,agent tasks,and platform features."
+  },  {
+    "question": "What is the KoraLink Digital Platform?",    "answer": "The KoraLink Digital Platform is the core technological engine supporting the Digital Jobs for Youth in Health program (2024–2028) in Rwanda,established under an Agreement with the Mastercard Foundation. It is an evolution of the initial IHUZO e-marketplace foundation,serving as an OFFLINE to ONLINE business network designed to accelerate the digitalization of micro and small businesses and digital labor markets."
+  },  {
+    "question": "Who prepared the KoraLink BRD and for whom?",    "answer": "The document was prepared by Kevin Asiimwe for the Mastercard Foundation,The Commons Project Foundation,and the ICT Chamber. It is Version 5.0,dated January 2026."
+  },  {
+    "question": "What is the primary aim/mission of the KoraLink platform?",    "answer": "The core purpose is to advance education and relieve poverty for financially disadvantaged youth in Rwanda,predominantly women,by enabling them to become KoraLink agents and access work opportunities. It seeks to digitally enable Rwanda's youth,women,and rural communities to transact,learn,and earn safely."
+  },  {
+    "question": "What is the technology stack used to build KoraLink?",    "answer": "The platform uses a custom mobile application built with React Native + Expo,a Next.js API backend,and a PostgreSQL database using Prisma ORM. It also supports offline registration and sales via USSD/SMS fallback for low-connectivity areas."
+  },  {
+    "question": "How many jobs is the program targeting?",    "answer": "The program targets creating 44,00 jobs in total,including approximately 14,40 direct digital jobs in health and 29,60 indirect work opportunities."
+  },  {
+    "question": "What is the target average monthly earning for KoraLink Agents?",    "answer": "Koralink Agents are targeted to reach an average monthly earning of up to $310 via the platform by the final year of the program,starting from a Year 1 target of around $100 per month."
+  },  {
+    "question": "What is the Agent career progression/level model?",    "answer": "Agents progress through a tracked,mentored career ladder: Level A (survival income) → Level C (multi-service offering) → Level F (small business employer)."
+  },  {
+    "question": "What are the key objectives of the KoraLink platform?",    "answer": "Six key objectives: (1) Economic Empowerment — creating jobs and enabling ~$310/month agent earnings; (2) Facilitating Commerce — sales of health goods/services,inventory,payments,commissions; (3) Skills Development — e-training and certification; (4) Livelihoods & Jobs — connecting upskilled agents to employers; (5) Financial Sustainability — a Revolving Sustainability Fund via Repayable Grants; (6) Compliance and Traceability — audit logs,identity,consent flows; and Accessibility — USSD/SMS offline fallback."
+  },  {
+    "question": "What is out of scope for the KoraLink Digital Platform?",    "answer": "Out of scope: (1) Physical logistics and distribution (handled by SFH); (2) Direct healthcare or diagnostic services (platform only enables sale/distribution of health goods/services,doesn't provide medical care itself); (3) Comprehensive financial management outside transactions (e.g.,central budget oversight,handled by a Fund Manager if retained); (4) Program governance/contract management between the Foundation and TCP; (5) Experimental integrations like a dedicated CRM system and IoT device tracking,which are deferred to future phases."
+  },  {
+    "question": "Who are the primary stakeholders and funders of KoraLink?",    "answer": "Mastercard Foundation (funds and oversees the Program,may retain a Fund Manager) and The Commons Project Foundation / TCP (the Organization responsible for Services under the Agreement; manages the Revolving Fund; acts as independent data controller)."
+  },  {
+    "question": "Who are the implementing and operational partners?",    "answer": "ICT Chamber (develops,deploys,operates,and maintains the platform,provides technical support) and Society for Family Health (SFH) Rwanda (the primary Merchant/Admin; responsible for Agent recruitment,training,onboarding,product distribution/logistics,product assignment for the Revolving Fund,and Monitoring & Evaluation)."
+  },  {
+    "question": "Who are the platform users and beneficiaries?",    "answer": "KoraLink Agents (primary beneficiaries and field operators — youth and women who sell goods/services,train,seek jobs,manage stock,record sales),Consumers/Customers (browse,order,and pay for goods/services from Agents),and Employers (post jobs,review upskilled Agents,hire)."
+  },  {
+    "question": "What are the specialized/governance user roles on the platform?",    "answer": "SUPER_ADMIN (full system access/configuration),ADMIN/Merchant (like SFH — manages products,inventory,funds,applications),Interviewer (manages candidate interviews/scoring/onboarding),Application Agent (supports application management/reporting),Health Goods & Services Providers (e.g.,SFH,TeleHealth/Irembo,Health Insurance/EdenCare),Government Entities (Ministry of Health,NCSA,National Health Intelligence Center,RRA),and Fund Manager (if retained,for financial management/procurement)."
+  },  {
+    "question": "What do KoraLink Agents need from the platform?",    "answer": "Agents need: real-time business management (stock dashboard,sales,commission tracking),financial tracking (Revolving Fund repayment status,DFS accounts),performance/incentive visibility (monthly score breakdown,tier status,quarterly eligibility),workforce planning tools (task tracker/work week planner),professional identity tools (profile,certifications,contracts,ID),and full offline accessibility via USSD/SMS."
+  },  {
+    "question": "As a KoraLink Agent,why do I want to register using my login credentials?",    "answer": "So I can access the platform quickly. Acceptance criteria: the SFH ID auto-validates via API."
+  },  {
+    "question": "As a Consumer,why would I want to sign up with just my phone number?",    "answer": "So I can browse products fast. Acceptance criteria: an OTP is sent via SMS for verification."
+  },  {
+    "question": "How is a newly registered KoraLink Agent's profile created?",    "answer": "The profile is auto-created with SFH-verified data (name,ID,training) so the agent doesn't need manual entry. Mandatory fields are SFH ID,assigned location,and certifications."
+  },  {
+    "question": "What is the Agent application/recruitment workflow?",    "answer": "Candidate submits application (mobile/web/USSD) → System assigns preliminary vulnerability group (A/B/C) → Interviewer records interview outcome/scoring → Approval/Rejection → Status upgrade to KoraLink Agent. Upon approval,an SMS with login info and training links is sent."
+  },  {
+    "question": "How does SFH Admin approve or reject KoraLink Agent registrations?",    "answer": "The dashboard shows pending registrations. Rejection sends an SMS to the applicant with the rejection reason. Admins can view/filter applicants within their assigned region/district only."
+  },  {
+    "question": "How does the Stock Management & Inventory Module work?",    "answer": "Super User/Warehouse Staff assign stock to Agent Inventory → Agent views assigned stock → Agent records a sale → Inventory auto-deducts in real time. SFH Admins get notified for replenishment when stock falls below a configured threshold; Agents get low-stock SMS alerts (e.g.,below 5 units) with a 'Reply RESTOCK' option."
+  },  {
+    "question": "How long must inventory movement audit logs be retained?",    "answer": "All inventory movements must be logged and archived for the 10-year fiscal retention period,with unit-level granularity (source,destination,initiator,status,quantity)."
+  },  {
+    "question": "How does the Sales & Commission Module work?",    "answer": "Agent records sale → Inventory auto-deduction → Commission calculated (percentage-based,e.g.,RWF 7,00 sale @ 10% = RWF 700) → Invoice auto-submitted to RRA EBM. Consumers pay via mobile money (USSD/STK push/QR via Mvend) and receive real-time payment confirmation."
+  },  {
+    "question": "What happens if the RRA EBM invoice submission API call fails?",    "answer": "Failed API calls must be logged and allow for retrying or escalation. The system implements a VSDC fallback protocol to log and retry failed invoice submissions immediately upon connectivity restoration."
+  },  {
+    "question": "What is the Maximum Allowed Voucher for a KoraLink Agent?",    "answer": "360,00 RWF — the total cumulative voucher ceiling per Agent across their entire program lifecycle. The system blocks any allocation that would breach this ceiling."
+  },  {
+    "question": "What is the Initial Unrestricted Ceiling in the voucher system?",    "answer": "50,00 RWF — the voucher amount available without repayment enforcement. Orders within this ceiling do not require minimum wallet repayment."
+  },  {
+    "question": "What is the Maximum Voucher per Request?",    "answer": "50,00 RWF — the cap on new voucher allocation in a single order transaction."
+  },  {
+    "question": "What is the Wallet/Voucher Contribution Ratio?",    "answer": "70% — in the Restricted Phase,the Agent must contribute a minimum of 70% of their Net Outstanding Voucher via wallet before a new voucher is issued."
+  },  {
+    "question": "What is the Revolving Fund Repayment Rate?",    "answer": "4% — applied to the total wallet payment on both product orders and service orders,contributing toward Revolving Fund repayment."
+  },  {
+    "question": "How is Net Outstanding Voucher calculated?",    "answer": "Net Outstanding Voucher = Gross Cumulative Received Voucher − Total Repaid Startup Capital − Unused Voucher Balance."
+  },  {
+    "question": "How is Voucher Ceiling Amount Balance calculated?",    "answer": "Voucher Ceiling Amount Balance = Maximum Allowed Voucher − Gross Cumulative Received Voucher."
+  },  {
+    "question": "How is Net Order Value calculated?",    "answer": "Net Order Value = Gross Order Value − Applied Unused Voucher Balance."
+  },  {
+    "question": "What is the difference between the Unrestricted Phase and Restricted Phase for vouchers?",    "answer": "Unrestricted Phase applies when Gross Cumulative Received Voucher is below the Initial Unrestricted Ceiling (50,00 RWF) — vouchers are allocated freely with no minimum wallet repayment enforced. Restricted Phase applies once the ceiling is reached or exceeded — the Agent must contribute a minimum wallet repayment (70% of Net Outstanding Voucher) before any new voucher is issued."
+  },  {
+    "question": "Can a single order span both the Unrestricted and Restricted voucher phases?",    "answer": "Yes. For example,if an Agent has 40,00 RWF in cumulative vouchers and places an order for 80,00 RWF,the system first allocates the remaining 10,00 RWF under the Unrestricted Phase,then processes the remaining 70,00 RWF under Restricted Phase conditions."
+  },  {
+    "question": "How is the Unrestricted Voucher allocation computed?",    "answer": "Unrestricted Voucher = min(Remaining Order,Max Per Request,Remaining Unrestricted Limit,Remaining Total Capacity)."
+  },  {
+    "question": "How is the Required Repayment computed in the Restricted Phase?",    "answer": "Required Repayment = min(70% × Net Outstanding Voucher,Remaining Order After Unrestricted Allocation). The Agent never has to pay more than the order actually costs."
+  },  {
+    "question": "How is the Restricted Voucher allocation computed?",    "answer": "Restricted Voucher = min(Remaining Order After Repayment,Max Per Request (50,00 RWF),Remaining Total Voucher Capacity − Unrestricted Voucher already issued in the transaction)."
+  },  {
+    "question": "How is the Revolving Fund Repayment amount calculated on an order?",    "answer": "Wallet Payment = Order Amount − (Applied Unused Voucher + Unrestricted Voucher + Restricted Voucher). Revolving Fund Repayment = Wallet Payment × 4%. This repayment is capped at the Agent's remaining outstanding startup capital,so the Agent is never overcharged."
+  },  {
+    "question": "What is the order reconciliation rule that the system must validate?",    "answer": "Order Amount = Total Voucher Used + Wallet Payment,where Total Voucher Used = Applied Unused + Unrestricted Voucher + Restricted Voucher. If this identity does not hold,the order must not proceed and the discrepancy must be logged for investigation."
+  },  {
+    "question": "What happens if products in an order don't all accept voucher payment?",    "answer": "Products that accept voucher payment cannot be mixed with products that don't in a single order. If any product in the order does not accept voucher payment,the entire order must be paid via wallet,though the Revolving Fund repayment percentage still applies."
+  },  {
+    "question": "Does the voucher ceiling apply to digital services as well as physical products?",    "answer": "Yes. The 360,00 RWF Maximum Allowed Voucher ceiling is shared across both physical product orders and digital service float orders (Float and Refloating). If a digital service provider does not accept voucher payment,the full order amount is charged to the Agent's wallet and the Revolving Fund repayment percentage still applies."
+  },  {
+    "question": "How can an Agent make a voluntary repayment toward the Revolving Fund?",    "answer": "Through two channels: (1) Mobile App — select 'Make Custom Repayment' in the Wallet section,enter an amount up to the Net Outstanding balance,processed in real time via MVEND. (2) USSD — access the repayment menu via USSD shortcode,enter the amount,with SMS confirmation. The repayment amount cannot exceed the Agent's Net Outstanding Voucher."
+  },  {
+    "question": "What is the Learning Management Module's purpose?",    "answer": "To deliver blended training,administer assessments,and manage certification,ensuring skills unlock new career flows. Agents can download modules for offline use (content stores locally for 7 days),get SMS reminders 1 hour before training sessions,and get up to 3 quiz attempts before certification is issued."
+  },  {
+    "question": "What happens if an Agent's certification expires?",    "answer": "The System auto-revokes expired certifications (e.g.,after product updates),blocks related gigs until renewal,and sends an SMS notification prompting retraining."
+  },  {
+    "question": "What social/peer learning features does the platform support?",    "answer": "Facilitator-led 'Concept Deep-Dive' discussion threads pinned to training modules,Agent participation in forum discussions (with offline drafting that auto-syncs),ability to like/upvote peer responses,and a Learner Feedback Loop with 1–5 star ratings and optional anonymous text feedback after each module."
+  },  {
+    "question": "How does the Agent Performance-Based Incentive Module work?",    "answer": "It's a policy-driven scoring service that calculates each Agent's monthly performance score across three dimensions — Repayments,Sales,and Orders — and assigns a performance tier (Bronze/Silver/Gold/Platinum). It consumes repayment data from an external system called IntelliGra without owning the underlying transactions."
+  },  {
+    "question": "What are the Repayment scoring thresholds?",    "answer": "≥100% repayment = 20 points; ≥90% = 15 points; ≥80% = 10 points; ≥70% = 5 points; <70% = 0 points. Agents without a phone obligation (didn't receive a smartphone via the program) are excluded from this scoring component."
+  },  {
+    "question": "What are the Sales scoring thresholds?",    "answer": "Below 50,00 RWF = 0 points; 50,00–100,00 = 10 points; 100,01–150,00 = 20 points; 150,01–250,00 = 30 points; 250,01–350,00 = 40 points; above 350,00 = 50 points. Sales value is measured using RRP as default or Agent-entered higher price."
+  },  {
+    "question": "What are the Orders scoring thresholds and reinvestment rule?",    "answer": "Below 50,00 RWF = 0 points; 50,00–100,00 = 10 points; 100,01–200,00 = 20 points; 200,01–300,00 = 25 points; above 300,00 = 30 points. Minimum conditions: order value ≥50,00 RWF and at least 2 orders. If the Agent's reinvestment rate is below 70% of their remaining unpaid starter stock grant balance,Orders points are capped at 20 regardless of order value."
+  },  {
+    "question": "What are the quarterly incentive tiers and voucher amounts?",    "answer": "Platinum (85–100 points): 30,00 RWF quarterly voucher. Gold (70–84 points): 23,00 RWF. Silver (50–69 points): 15,00 RWF. Bronze (below 50 points): No voucher."
+  },  {
+    "question": "What are the eligibility gates for receiving a quarterly incentive voucher?",    "answer": "ALL three conditions must be met: (1) total monthly points ≥50 in the relevant month,(2) quarterly phone repayment compliance ≥80% across the three-month quarter,and (3) no confirmed major compliance violations or fraud findings for the period. Failing any single gate results in no voucher regardless of points achieved."
+  },  {
+    "question": "What sanctions can be applied to an Agent's incentive score?",    "answer": "Minor non-compliance: −5 points. Moderate non-compliance: −15 points and voucher held pending resolution. Major non-compliance/fraud: disqualification from the quarterly voucher and escalation under programme rules. Every sanction requires a mandatory reason field and is logged in the immutable audit trail."
+  },  {
+    "question": "How does the platform handle IntelliGra (the external phone repayment system) being unavailable during scoring?",    "answer": "If repayment data cannot be retrieved within the scoring window,the system flags the affected Agent's repayment score as pending,notifies the Admin,and allows a manual trigger of the repayment scoring step once data becomes available."
+  },  {
+    "question": "How does the Job Management Module work for Employers?",    "answer": "Employers get a web portal with a dashboard (active postings,applicant volume,14-day trend chart),a job creation form with a live preview panel,applicant 'Fit Scoring' (visual match percentage based on certifications and sales history),and pipeline management to move candidates through New → Shortlisted → Interviewed → Hired/Rejected stages."
+  },  {
+    "question": "How does the Job Management Module work for Agents?",    "answer": "Agents get a Job Marketplace tab to browse listings by location,pay,and duration; can save opportunities across sessions; get a one-tap application flow with auto-populated profile data and certification uploads; and can track application status (Accepted/Rejected/New) with direct employer feedback."
+  },  {
+    "question": "Are Fit Scores visible to Agents?",    "answer": "No. Asymmetric Data Visibility means Fit Scores are visible only to the Employer,while Employer Feedback and Status Updates are visible to the Agent,to maintain professional screening standards."
+  },  {
+    "question": "What are the 4 phases of the End-to-End Job Lifecycle?",    "answer": "Phase 1 (Posting): Employer creates job via template,system analyzes location/skills/pay/duration. Phase 2 (Matching): System identifies matching Agents,pushes recommendations to top performers. Phase 3 (Application): Agent applies with one tap,employer reviews via Fit Score,shortlists or rejects. Phase 4 (Execution): Agent hired,work completed,Agent rated,tier possibly adjusted."
+  },  {
+    "question": "What technical stack requirements are mandated as Non-Functional Requirements?",    "answer": "Next.js API backend,PostgreSQL database with Prisma ORM,React Native + Expo mobile app. The architecture must support horizontal scaling,handle 5–20 transactions per second normally (bursts of 50–100/sec),and integrate with Twilio (SMS) and SendGrid (email)."
+  },  {
+    "question": "What are the platform's security and privacy compliance requirements?",    "answer": "Compliance with Rwanda's Protection of Personal Information Law (Law N°058/2021); registration as a Data Controller with the NCSA; all Personal Data encrypted at rest and in transit; HTTPS-only; JWT token-based authentication; PIN-based security for wallet transactions; PCI-DSS Level 4 compliance for card processing; and mandatory reporting of any data breach to the NCSA within 48 hours."
+  },  {
+    "question": "What is the data retention requirement for financial records?",    "answer": "10 years,per RRA (Rwanda Revenue Authority) fiscal requirements — this overrides the Mastercard Foundation's 7-year minimum retention period for digital records."
+  },  {
+    "question": "What performance and reliability targets must the platform meet?",    "answer": "Payment request initiation must take less than 1 second under normal conditions. Payment-related services must maintain at least 99.9% uptime. Payment success rate must be at least 95% within one minute. Transaction/reconciliation conflict rate must be below 0.05%,with less than 0.1% of transactions unmatched after reconciliation."
+  },  {
+    "question": "What languages must the platform support?",    "answer": "Both Kinyarwanda and English,for training content and user interfaces."
+  },  {
+    "question": "What is the project timeline / Agreement Term for KoraLink?",    "answer": "March 1,2025 to August 31,2029,with a Mastercard Foundation evaluation checkpoint in Year 3 for potential expansion."
+  },  {
+    "question": "What external payment/service integrations does the platform assume?",    "answer": "Gwiza Payment Gateway and DDIN Digital Services for payments; MVEND for wallet management; IntelliGra for phone repayment data; and potential integrations with TeleHealth (Irembo) and Health Insurance (EdenCare). It also assumes Data Agreements with MOMO,MTN,and Equity for income verification during recruitment."
+  },  {
+    "question": "What is the total program budget?",    "answer": "Approximately US $25,64,16,managed by the Mastercard Foundation (or a Fund Manager if retained)."
+  },  {
+    "question": "What is the target number of Agents to onboard,and what are the demographic targets?",    "answer": "A total target of 11,62 Agents across four years,with 80% to 90% of Agents being women and 70% being rural-based."
+  },  {
+    "question": "What KPIs measure the success of the Revolving Fund?",    "answer": "Utilization rate of the Fund and repayment rates of Repayable Grants,along with tracking automatic deduction rates and hardship case approvals related to fund repayment. (Note: quarterly tier distribution targets and voucher disbursement rate KPIs for the Incentive Module were still pending policy input as of this BRD version.)"
+  },  {
+    "question": "What reporting must the platform generate for the Mastercard Foundation?",    "answer": "Mandatory Quarterly narrative and financial reports (starting with the quarter ending June 30,2025),Annual Narrative Reports,and Detailed Expenditure Statements. All financial,sales,job,and M&E reports must be exportable and API-accessible."
+  },  {
+    "question": "What compliance certifications must the platform obtain before going live?",    "answer": "Official RRA EBM (Electronic Billing Machine) certification is required before the sales/invoicing module can go live,and the platform must complete registration as a Data Controller with Rwanda's National Cyber Security Agency (NCSA)."
+  },  {
+    "question": "Who manages physical distribution/logistics of health goods to Agents?",    "answer": "Society for Family Health (SFH) — the platform provides digital tracking tools (like the Dispatch Management System) but does not itself handle physical movement of goods."
+  },  {
+    "question": "What is the DDIN Historical Float Data Migration requirement?",    "answer": "The system must load a pre-loaded historical voucher value for Agents who previously received float through DDIN,recorded as their opening Gross Cumulative Received Voucher balance. This determines their starting phase (Unrestricted or Restricted) from their first marketplace transaction,and is flagged in the audit trail as a distinct migration entry with source 'DDIN' and migration date."
+  },  {
+    "question": "what digital services can i sell",    "answer": "Through the KoraLink Marketplace app,agents can offer: EUCL Prepaid Electricity token purchases,MTN and Airtel airtime top-ups,RRA Tax payments,and StarTimes PayTV subscriptions,in addition to selling physical health and wellness products."
+  },  {
+    "question": "list of digital services",    "answer": "Through the KoraLink Marketplace app,agents can offer: EUCL Prepaid Electricity token purchases,MTN and Airtel airtime top-ups,RRA Tax payments,and StarTimes PayTV subscriptions,in addition to selling physical health and wellness products."
+  },  {
+    "question": "what utility payments can agents offer",    "answer": "Through the KoraLink Marketplace app,agents can offer: EUCL Prepaid Electricity token purchases,MTN and Airtel airtime top-ups,RRA Tax payments,and StarTimes PayTV subscriptions,in addition to selling physical health and wellness products."
+  },  {
+    "question": "can i sell electricity tokens",    "answer": "Through the KoraLink Marketplace app,agents can offer: EUCL Prepaid Electricity token purchases,MTN and Airtel airtime top-ups,RRA Tax payments,and StarTimes PayTV subscriptions,in addition to selling physical health and wellness products."
+  },  {
+    "question": "can i top up airtime",    "answer": "Through the KoraLink Marketplace app,agents can offer: EUCL Prepaid Electricity token purchases,MTN and Airtel airtime top-ups,RRA Tax payments,and StarTimes PayTV subscriptions,in addition to selling physical health and wellness products."
+  },  {
+    "question": "can i pay rra tax through the app",    "answer": "Through the KoraLink Marketplace app,agents can offer: EUCL Prepaid Electricity token purchases,MTN and Airtel airtime top-ups,RRA Tax payments,and StarTimes PayTV subscriptions,in addition to selling physical health and wellness products."
+  },  {
+    "question": "can i sell tv subscriptions",    "answer": "Through the KoraLink Marketplace app,agents can offer: EUCL Prepaid Electricity token purchases,MTN and Airtel airtime top-ups,RRA Tax payments,and StarTimes PayTV subscriptions,in addition to selling physical health and wellness products."
+  },  {
+    "question": "what products can i see examples of",    "answer": "Example products available on the KoraLink Marketplace include items like Guardian Long-Lasting Spatial Mosquito Repellent and PLAISIR Lubricated Latex Condoms,alongside other curated health,wellness,and hygiene products from trusted suppliers like SFH."
+  },  {
+    "question": "example products on koralink",    "answer": "Example products available on the KoraLink Marketplace include items like Guardian Long-Lasting Spatial Mosquito Repellent and PLAISIR Lubricated Latex Condoms,alongside other curated health,wellness,and hygiene products from trusted suppliers like SFH."
+  },  {
+    "question": "what mosquito repellent is sold",    "answer": "Example products available on the KoraLink Marketplace include items like Guardian Long-Lasting Spatial Mosquito Repellent and PLAISIR Lubricated Latex Condoms,alongside other curated health,wellness,and hygiene products from trusted suppliers like SFH."
+  },  {
+    "question": "what health products are examples",    "answer": "Example products available on the KoraLink Marketplace include items like Guardian Long-Lasting Spatial Mosquito Repellent and PLAISIR Lubricated Latex Condoms,alongside other curated health,wellness,and hygiene products from trusted suppliers like SFH."
+  },  {
+    "question": "how much commission do i earn per product",    "answer": "Commission varies by product and is shown per item in your Inventory and Sales History. For example,the Guardian Mosquito Repellent has historically shown a commission of RWF 600 per unit — always check the app for current,exact commission rates as these can be updated by suppliers."
+  },  {
+    "question": "example commission amount",    "answer": "Commission varies by product and is shown per item in your Inventory and Sales History. For example,the Guardian Mosquito Repellent has historically shown a commission of RWF 600 per unit — always check the app for current,exact commission rates as these can be updated by suppliers."
+  },  {
+    "question": "what is the commission on mosquito repellent",    "answer": "Commission varies by product and is shown per item in your Inventory and Sales History. For example,the Guardian Mosquito Repellent has historically shown a commission of RWF 600 per unit — always check the app for current,exact commission rates as these can be updated by suppliers."
+  },  {
+    "question": "what does amafaranga wungutse mean",    "answer": "'Amafaranga Wungutse' is Kinyarwanda for 'Profit'. It appears on the KoraLink Marketplace home screen and shows your total earnings at a glance."
+  },  {
+    "question": "what is shown on the home screen",    "answer": "'Amafaranga Wungutse' is Kinyarwanda for 'Profit'. It appears on the KoraLink Marketplace home screen and shows your total earnings at a glance."
+  },  {
+    "question": "what is profit called in the app",    "answer": "'Amafaranga Wungutse' is Kinyarwanda for 'Profit'. It appears on the KoraLink Marketplace home screen and shows your total earnings at a glance."
+  },  {
+    "question": "what does agaciro k'ububiko mean",    "answer": "'Agaciro k'Ububiko' is Kinyarwanda for 'Value of Inventory'. It's found in the Inventory section of the app and shows the total monetary worth of your current stock."
+  },  {
+    "question": "how do i see my inventory value",    "answer": "'Agaciro k'Ububiko' is Kinyarwanda for 'Value of Inventory'. It's found in the Inventory section of the app and shows the total monetary worth of your current stock."
+  },  {
+    "question": "what is inventory value called in the app",    "answer": "'Agaciro k'Ububiko' is Kinyarwanda for 'Value of Inventory'. It's found in the Inventory section of the app and shows the total monetary worth of your current stock."
+  },  {
+    "question": "what does ukeneye ubufasha mean",    "answer": "'Ukeneye Ubufasha?' means 'Need Help?' in Kinyarwanda. It's a section on the Home screen of the KoraLink Marketplace app that directs you to frequently asked questions and support."
+  },  {
+    "question": "where do i find help in the app",    "answer": "'Ukeneye Ubufasha?' means 'Need Help?' in Kinyarwanda. It's a section on the Home screen of the KoraLink Marketplace app that directs you to frequently asked questions and support."
+  },  {
+    "question": "in-app help section",    "answer": "'Ukeneye Ubufasha?' means 'Need Help?' in Kinyarwanda. It's a section on the Home screen of the KoraLink Marketplace app that directs you to frequently asked questions and support."
+  },  {
+    "question": "what language is the app in",    "answer": "The KoraLink Marketplace app interface uses Kinyarwanda for many labels (e.g.,'Amafaranga Wungutse' for Profit,'Agaciro k'Ububiko' for Inventory Value),alongside English/French where applicable."
+  },  {
+    "question": "is the app in kinyarwanda",    "answer": "The KoraLink Marketplace app interface uses Kinyarwanda for many labels (e.g.,'Amafaranga Wungutse' for Profit,'Agaciro k'Ububiko' for Inventory Value),alongside English/French where applicable."
+  },  {
+    "question": "app interface language",    "answer": "The KoraLink Marketplace app interface uses Kinyarwanda for many labels (e.g.,'Amafaranga Wungutse' for Profit,'Agaciro k'Ububiko' for Inventory Value),alongside English/French where applicable."
+  },  {
+    "question": "what is the latest app version",    "answer": "As of mid-2026,the KoraLink Marketplace iOS app was on version 1.1.2,sized around 36.7 MB,first released on the App Store on February 19,2026. Both the Android and iOS apps are updated periodically — check the Google Play Store or Apple App Store for the current version."
+  },  {
+    "question": "koralink app version",    "answer": "As of mid-2026,the KoraLink Marketplace iOS app was on version 1.1.2,sized around 36.7 MB,first released on the App Store on February 19,2026. Both the Android and iOS apps are updated periodically — check the Google Play Store or Apple App Store for the current version."
+  },  {
+    "question": "app size",    "answer": "As of mid-2026,the KoraLink Marketplace iOS app was on version 1.1.2,sized around 36.7 MB,first released on the App Store on February 19,2026. Both the Android and iOS apps are updated periodically — check the Google Play Store or Apple App Store for the current version."
+  },  {
+    "question": "when was the app first released",    "answer": "As of mid-2026,the KoraLink Marketplace iOS app was on version 1.1.2,sized around 36.7 MB,first released on the App Store on February 19,2026. Both the Android and iOS apps are updated periodically — check the Google Play Store or Apple App Store for the current version."
+  },  {
+    "question": "what was in the latest app update",    "answer": "A recent update noted 'Revised ordering model' as a key change. Check the 'What's new' section on the Google Play Store or App Store listing for the latest release notes."
+  },  {
+    "question": "recent app changes",    "answer": "A recent update noted 'Revised ordering model' as a key change. Check the 'What's new' section on the Google Play Store or App Store listing for the latest release notes."
+  },  {
+    "question": "whats new in koralink app",    "answer": "A recent update noted 'Revised ordering model' as a key change. Check the 'What's new' section on the Google Play Store or App Store listing for the latest release notes."
+  },  {
+    "question": "where can i download the koralink app",    "answer": "KoraLink Marketplace is available on Google Play (package name com.djyh.marketplace) for Android,and on the Apple App Store for iOS. Search 'KoraLink Marketplace' by Rwanda ICT Chamber,or use the links shared during your onboarding."
+  },  {
+    "question": "is there an ios version",    "answer": "KoraLink Marketplace is available on Google Play (package name com.djyh.marketplace) for Android,and on the Apple App Store for iOS. Search 'KoraLink Marketplace' by Rwanda ICT Chamber,or use the links shared during your onboarding."
+  },  {
+    "question": "koralink app store link",    "answer": "KoraLink Marketplace is available on Google Play (package name com.djyh.marketplace) for Android,and on the Apple App Store for iOS. Search 'KoraLink Marketplace' by Rwanda ICT Chamber,or use the links shared during your onboarding."
+  },  {
+    "question": "koralink google play link",    "answer": "KoraLink Marketplace is available on Google Play (package name com.djyh.marketplace) for Android,and on the Apple App Store for iOS. Search 'KoraLink Marketplace' by Rwanda ICT Chamber,or use the links shared during your onboarding."
+  },  {
+    "question": "who is the developer of the koralink app",    "answer": "The KoraLink Marketplace app is developed and published by the Rwanda ICT Chamber (developer website: ictchamber.rw)."
+  },  {
+    "question": "who publishes the app",    "answer": "The KoraLink Marketplace app is developed and published by the Rwanda ICT Chamber (developer website: ictchamber.rw)."
+  },  {
+    "question": "who owns the koralink app",    "answer": "The KoraLink Marketplace app is developed and published by the Rwanda ICT Chamber (developer website: ictchamber.rw)."
+  },  {
+    "question": "is my data shared with third parties",    "answer": "Per the app's official Google Play Data Safety declaration: no data is shared with third parties,no data is collected (as declared),and data is encrypted in transit."
+  },  {
+    "question": "does koralink sell my data",    "answer": "Per the app's official Google Play Data Safety declaration: no data is shared with third parties,no data is collected (as declared),and data is encrypted in transit."
+  },  {
+    "question": "what is the app's data safety rating",    "answer": "Per the app's official Google Play Data Safety declaration: no data is shared with third parties,no data is collected (as declared),and data is encrypted in transit."
+  },  {
+    "question": "where is the privacy policy",    "answer": "The privacy policy for the KoraLink Marketplace app is published at djyh.rw/rw/privacy."
+  },  {
+    "question": "koralink privacy policy link",    "answer": "The privacy policy for the KoraLink Marketplace app is published at djyh.rw/rw/privacy."
+  },  {
+    "question": "what age rating does the app have",    "answer": "KoraLink Marketplace is rated for ages 3+ on app stores,and includes in-app purchase functionality (for digital services like airtime and utility payments)."
+  },  {
+    "question": "is the app safe for all ages",    "answer": "KoraLink Marketplace is rated for ages 3+ on app stores,and includes in-app purchase functionality (for digital services like airtime and utility payments)."
+  },  {
+    "question": "what is the agent academy website",    "answer": "The KoraLink Agents Academy (e-learning portal) is at academy.djyh.rw. It's your gateway to becoming a Digital Community Champion under the Digital Jobs for Youth in Health program,with practical digital skills courses."
+  },  {
+    "question": "academy link",    "answer": "The KoraLink Agents Academy (e-learning portal) is at academy.djyh.rw. It's your gateway to becoming a Digital Community Champion under the Digital Jobs for Youth in Health program,with practical digital skills courses."
+  },  {
+    "question": "e-learning portal url",    "answer": "The KoraLink Agents Academy (e-learning portal) is at academy.djyh.rw. It's your gateway to becoming a Digital Community Champion under the Digital Jobs for Youth in Health program,with practical digital skills courses."
+  },  {
+    "question": "where do i take courses",    "answer": "The KoraLink Agents Academy (e-learning portal) is at academy.djyh.rw. It's your gateway to becoming a Digital Community Champion under the Digital Jobs for Youth in Health program,with practical digital skills courses."
+  },  {
+    "question": "what courses are available in the agent academy",    "answer": "Courses available include: Market Assessment and Forecasting,Uko Wakoresha KoraLink App (How to Use the KoraLink App),Communication,Digital Entrepreneurship,Google My Business,Data Privacy,DJYH Marketplace Training Video,Social Media Marketing,Digital Marketing,Product Details,Guide to Marketplace Operations,Marketing and Sales,and Social Commerce. All are currently free."
+  },  {
+    "question": "list of academy courses",    "answer": "Courses available include: Market Assessment and Forecasting,Uko Wakoresha KoraLink App (How to Use the KoraLink App),Communication,Digital Entrepreneurship,Google My Business,Data Privacy,DJYH Marketplace Training Video,Social Media Marketing,Digital Marketing,Product Details,Guide to Marketplace Operations,Marketing and Sales,and Social Commerce. All are currently free."
+  },  {
+    "question": "what can i learn in the academy",    "answer": "Courses available include: Market Assessment and Forecasting,Uko Wakoresha KoraLink App (How to Use the KoraLink App),Communication,Digital Entrepreneurship,Google My Business,Data Privacy,DJYH Marketplace Training Video,Social Media Marketing,Digital Marketing,Product Details,Guide to Marketplace Operations,Marketing and Sales,and Social Commerce. All are currently free."
+  },  {
+    "question": "what course teaches me how to use the app",    "answer": "'Uko Wakoresha KoraLink App' (a Kinyarwanda-language course meaning 'How to Use the KoraLink App') has 10 lessons and covers effective use of the Marketplace app. It's free on the Agent Academy at academy.djyh.rw."
+  },  {
+    "question": "app usage training course",    "answer": "'Uko Wakoresha KoraLink App' (a Kinyarwanda-language course meaning 'How to Use the KoraLink App') has 10 lessons and covers effective use of the Marketplace app. It's free on the Agent Academy at academy.djyh.rw."
+  },  {
+    "question": "are academy courses free",    "answer": "Yes,all courses currently listed on the KoraLink Agents Academy (academy.djyh.rw) are free."
+  },  {
+    "question": "do i pay for training courses",    "answer": "Yes,all courses currently listed on the KoraLink Agents Academy (academy.djyh.rw) are free."
+  },  {
+    "question": "cost of academy courses",    "answer": "Yes,all courses currently listed on the KoraLink Agents Academy (academy.djyh.rw) are free."
+  },  {
+    "question": "what are the academy course categories",    "answer": "Courses are organized into two main categories: Digital & Business Innovation,and Health & Well-being (Digital Commerce)."
+  },  {
+    "question": "types of courses offered",    "answer": "Courses are organized into two main categories: Digital & Business Innovation,and Health & Well-being (Digital Commerce)."
+  },  {
+    "question": "who partners with the agent academy",    "answer": "The Agent Academy displays partner branding for The Commons Project (TCP) and Society for Family Health (SFH),reflecting the same partnership structure behind the wider KoraLink program."
+  },  {
+    "question": "academy partners logos",    "answer": "The Agent Academy displays partner branding for The Commons Project (TCP) and Society for Family Health (SFH),reflecting the same partnership structure behind the wider KoraLink program."
+  },  {
+    "question": "how do i sign in to the academy",    "answer": "You can sign in to the KoraLink Agents Academy at academy.djyh.rw/users/sign_in,using the credentials provided during your onboarding."
+  },  {
+    "question": "academy login page",    "answer": "You can sign in to the KoraLink Agents Academy at academy.djyh.rw/users/sign_in,using the credentials provided during your onboarding."
+  },  {
+    "question": "what is djyh",    "answer": "DJYH stands for 'Digital Jobs for Youth in Health' — the overarching Mastercard Foundation-supported program (2024–2028) that the KoraLink platform and Agent Academy operate under. This is why related domains use 'djyh.rw' (e.g.,academy.djyh.rw,www.djyh.rw)."
+  },  {
+    "question": "what does djyh stand for",    "answer": "DJYH stands for 'Digital Jobs for Youth in Health' — the overarching Mastercard Foundation-supported program (2024–2028) that the KoraLink platform and Agent Academy operate under. This is why related domains use 'djyh.rw' (e.g.,academy.djyh.rw,www.djyh.rw)."
+  },  {
+    "question": "what is koralink.org",    "answer": "koralink.org is the official website for the KoraLink Digital Community Platform,describing the program,marketplace,learning resources,and job opportunities. It's available in multiple language versions (e.g.,/en for English,/rw for Kinyarwanda)."
+  },  {
+    "question": "main koralink website",    "answer": "koralink.org is the official website for the KoraLink Digital Community Platform,describing the program,marketplace,learning resources,and job opportunities. It's available in multiple language versions (e.g.,/en for English,/rw for Kinyarwanda)."
+  },  {
+    "question": "is there a marketplace page on the website",    "answer": "Yes,koralink.org/en/marketplace showcases the KoraLink Marketplace — the platform where Agents sell health products and digital services to their communities."
+  },  {
+    "question": "koralink.org marketplace section",    "answer": "Yes,koralink.org/en/marketplace showcases the KoraLink Marketplace — the platform where Agents sell health products and digital services to their communities."
+  },  {
+    "question": "is there a jobs page on the website",    "answer": "Yes,koralink.org/en/jobs presents the Job Marketplace component,connecting upskilled KoraLink Agents with verified Employers posting job opportunities."
+  },  {
+    "question": "koralink.org jobs section",    "answer": "Yes,koralink.org/en/jobs presents the Job Marketplace component,connecting upskilled KoraLink Agents with verified Employers posting job opportunities."
+  },  {
+    "question": "is there a learning page on the website",    "answer": "Yes,koralink.org/en/learning highlights the platform's learning and certification resources,which link through to the Agent Academy at academy.djyh.rw."
+  },  {
+    "question": "koralink.org learning section",    "answer": "Yes,koralink.org/en/learning highlights the platform's learning and certification resources,which link through to the Agent Academy at academy.djyh.rw."
+  },  {
+    "question": "what is the support phone number",    "answer": "+250 793 902 451 — this is the support line for the Rwanda ICT Chamber,the app's developer."
+  },  {
+    "question": "koralink phone number",    "answer": "+250 793 902 451 — this is the support line for the Rwanda ICT Chamber,the app's developer."
+  },  {
+    "question": "ict chamber phone",    "answer": "+250 793 902 451 — this is the support line for the Rwanda ICT Chamber,the app's developer."
+  },  {
+    "question": "what is the support email",    "answer": "info@ictchamber.rw — the official support email for the Rwanda ICT Chamber."
+  },  {
+    "question": "koralink support email",    "answer": "info@ictchamber.rw — the official support email for the Rwanda ICT Chamber."
+  },  {
+    "question": "what is the developer's address",    "answer": "Rwanda ICT Chamber's registered address is KG 565 St 6,Kigali,Rwanda."
+  },  {
+    "question": "ict chamber office location",    "answer": "Rwanda ICT Chamber's registered address is KG 565 St 6,Kigali,Rwanda."
+  },  {
+    "question": "How many jobs will KoraLink create in total?",    "answer": "The program targets creating 44,00 jobs in total,including about 14,40 direct digital jobs in health and 29,60 indirect work opportunities."
+  },  {
+    "question": "What career levels can I move through as an Agent?",    "answer": "Agents progress through a tracked ladder from Level A (survival income),to Level C (multi-service offering),to Level F (running your own small business as an employer)."
+  },  {
+    "question": "What kind of agents can join,from beginners to professionals?",    "answer": "Candidates range from Level A (no prior experience,just motivated) up to Group D,which includes professionals like nurses offering higher-value health services."
+  },  {
+    "question": "Who delivers products to me as an Agent?",    "answer": "Society for Family Health (SFH) is responsible for physically distributing health goods to KoraLink Agents and managing that logistics."
+  },  {
+    "question": "How is my monthly performance score calculated?",    "answer": "Your monthly score is made up of three components: Repayments,Sales,and Orders."
+  },  {
+    "question": "What are the performance tiers and what do they mean?",    "answer": "There are four tiers based on your monthly score: Bronze,Silver,Gold,and Platinum. Higher tiers earn bigger quarterly incentive vouchers."
+  },  {
+    "question": "What are the quarterly voucher rewards for each tier?",    "answer": "Platinum tier earns a 30,00 RWF voucher,Gold earns 23,00 RWF,and Silver earns 15,00 RWF per quarter. Bronze does not receive a voucher."
+  },  {
+    "question": "What do I need to do to qualify for a quarterly incentive voucher?",    "answer": "You need to meet all three conditions: score at least 50 points in the relevant month,maintain at least 80% phone repayment compliance across the quarter,and have no confirmed major compliance violations or fraud findings. Missing any one of these means no voucher that quarter,even if your points are high."
+  },  {
+    "question": "How much can I get in starter capital vouchers as an Agent?",    "answer": "The maximum total voucher amount you can receive over your entire time as an Agent is 360,00 RWF."
+  },  {
+    "question": "How much starter voucher can I get without needing to repay first?",    "answer": "You can receive up to 50,00 RWF in vouchers without any repayment requirement — this is the Initial Unrestricted amount."
+  },  {
+    "question": "Is there a limit on how much voucher I can get in one order?",    "answer": "Yes,the maximum voucher issued in a single order is 50,00 RWF."
+  },  {
+    "question": "Once I pass the free voucher limit,how much do I need to repay before getting more?",    "answer": "After you pass the 50,00 RWF unrestricted limit,you need to repay at least 70% of your outstanding voucher balance through your wallet before you can be issued a new voucher."
+  },  {
+    "question": "How much of my wallet payments goes toward repaying my starter capital?",    "answer": "4% of every wallet payment (on both products and services) automatically goes toward repaying your Revolving Fund / starter capital balance."
+  },  {
+    "question": "Will I ever be charged more repayment than I actually received?",    "answer": "No — the system caps your Revolving Fund repayment at your remaining outstanding startup capital,so you can never be charged more than what you were originally given."
+  },  {
+    "question": "Can I pay off my starter capital early or extra?",    "answer": "Yes,you can make a voluntary repayment anytime through the app's 'Make Custom Repayment' option or via USSD,up to your current outstanding balance."
+  },  {
+    "question": "What happens if I try to order products where some accept vouchers and some don't?",    "answer": "If any product in your order doesn't accept voucher payment,the whole order must be paid from your wallet instead — vouchers and non-voucher products can't be mixed in one order."
+  },  {
+    "question": "Does the 360,00 RWF voucher limit apply to digital services too,or just physical products?",    "answer": "It applies to both. The 360,00 RWF voucher ceiling is shared across physical product orders and digital service orders (like float/refloating)."
+  },  {
+    "question": "Do agents who received phones from the program have a repayment amount for that?",    "answer": "Yes,agents who received a smartphone through the program have an expected repayment based on roughly 392 RWF per day. Agents who didn't receive a phone through the program are excluded from this."
+  },  {
+    "question": "How much do I need to sell each month to earn Sales points?",    "answer": "Sales below 50,00 RWF earn 0 points. From there,points increase in tiers: 10 points for 50,00–100,00 RWF,up to 50 points for sales above 350,00 RWF."
+  },  {
+    "question": "What are the minimum requirements to earn points for placing orders?",    "answer": "You need a total order value of at least 50,00 RWF and at least 2 confirmed orders in the month to start earning Orders points."
+  },  {
+    "question": "Why might my Orders points be capped even if I ordered a lot?",    "answer": "If you reinvest less than 70% of your outstanding starter stock balance back into new orders,your Orders points get capped at 20,no matter how large your order value was."
+  },  {
+    "question": "Can employers see my performance/fit score when I apply for a job?",    "answer": "No — your Fit Score is only visible to the employer for their own screening. What you see as an Agent is the employer's feedback and your application status updates."
+  },  {
+    "question": "What happens after I complete a job through the Job Marketplace?",    "answer": "The employer submits a rating and review after the job,which updates your public Reputation Metrics — this feeds into your professional profile and can affect your tier progression."
+  },  {
+    "question": "What file types can I upload when applying for jobs?",    "answer": "You can attach documents like your ID,health certificates,or a motivation letter in PDF or JPG format."
+  },  {
+    "question": "What are the stages my job application goes through?",    "answer": "New → Shortlisted → Interviewed → Hired or Rejected. You'll get notified as your application moves through these stages."
+  },  {
+    "question": "What happens if I don't complete my training within the required time?",    "answer": "If a certification expires (for example after a product update),the system automatically revokes it,blocks related job/gig eligibility until you retrain,and sends you an SMS notification."
+  },  {
+    "question": "Can I practice placing orders before doing it for real?",    "answer": "Yes,the training modules include a practical 'sandbox' environment where you can place real orders as part of learning,not just watch videos."
+  },  {
+    "question": "How can I give feedback on a training module?",    "answer": "After completing a module,you can rate it 1–5 stars and leave written comments — you can even choose to submit this feedback anonymously."
+  },  {
+    "question": "Is there a way to ask questions or discuss lessons with other agents?",    "answer": "Yes,there are discussion threads within the Academy where facilitators post 'Concept Deep-Dive' topics and agents can reply,ask questions,and upvote helpful answers from peers."
+  },  {
+    "question": "Will I be scored during a period when I'm inactive or in onboarding grace period?",    "answer": "No — agents in a designated grace period are excluded from monthly performance scoring."
+  },  {
+    "question": "What percentage of KoraLink Agents are meant to be women and rural-based?",    "answer": "The program targets 80% to 90% of Agents being women,and 70% being based in rural areas."
+  },  {
+    "question": "How is the total value of my products calculated for sales scoring?",    "answer": "Sales value is calculated using the Recommended Retail Price (RRP) by default,or a higher price if you personally recorded selling it above RRP."
+  },  {
+    "question": "Will I get an SMS if I run low on stock?",    "answer": "Yes,you'll get an automatic SMS like 'Low stock! Only 3 nets left. Reply RESTOCK to request more' when your inventory drops below 5 units."
+  },  {
+    "question": "Can I see exactly how my commission was calculated on a sale?",    "answer": "Yes,tapping any transaction shows the breakdown,for example: 'RWF 7,00 sale @ 10% = RWF 700'."
+  },  {
+    "question": "Does my personal data get deleted if I stop being an agent?",    "answer": "The platform supports your right to request erasure of your personal data,in line with Rwanda's data protection law,though some financial/fiscal records must still be retained for 10 years to comply with tax regulations."
+  },  {
+    "question": "Is my card payment information safe?",    "answer": "Yes,card payment processing is designed to meet PCI-DSS security certification standards,meaning your card number is tokenized and not stored in plain form."
+  },  {
+    "question": "What is the overall budget behind the KoraLink program?",    "answer": "The program operates on an overall budget of approximately US $25,64,16,funded through the Mastercard Foundation."
+  },  {
+    "question": "How long is the KoraLink program running for?",    "answer": "The program runs under an agreement from March 1,2025 to August 31,2029."
+  },  {
+    "question": "What are Repayable Grants?",    "answer": "Repayable Grants are the goods,devices,accessories,and data provided to you as startup capital when you join as an Agent — you gradually repay this through a small percentage of your wallet payments,and repayments get reinvested to support the next agents."
+  },  {
+    "question": "What health and telehealth partners work with KoraLink?",    "answer": "Health goods and service partnerships being explored/used include SFH products,TeleHealth via Irembo,and Health Insurance via EdenCare."
+  },  {
+    "question": "Does the platform support offline access?",    "answer": "Yes,through USSD/SMS fallback."
+  },    {
+    "question": "What is the key goal of the Employer Portal hiring pipeline?",    "answer": "To provide recruiters and SMEs with a streamlined hiring pipeline to manage talent at scale."
+  },  {
+    "question": "What does the Employer Dashboard display?",    "answer": "It shows active postings,weekly applicant volume,and a 14-day engagement trend."
+  },  {
+    "question": "What is the purpose of the Live Preview during job creation?",    "answer": "It lets employers preview the job posting before publishing."
+  },  {
+    "question": "What is a Fit Score?",    "answer": "A visual score showing how well an agent matches job requirements."
+  },  {
+    "question": "What stages are included in the hiring pipeline?",    "answer": "New,Shortlisted,Interviewed,Hired,and Rejected."
+  },  {
+    "question": "How can agents apply for jobs?",    "answer": "Using a one-tap application with auto-filled profile information."
+  },  {
+    "question": "Can agents upload supporting documents?",    "answer": "Yes,including ID cards,health certificates,and motivation letters."
+  },  {
+    "question": "How do agents track applications?",    "answer": "Through the My Applications page."
+  },  {
+    "question": "What authentication method is required?",    "answer": "JWT token-based authentication."
+  },  {
+    "question": "What is the primary core technological engine supporting the Digital Jobs for Youth in Health program?",    "answer": "The KoraLink Digital Platform (an evolution of the initial IHUZO e-marketplace foundation)."
+  },  {
+    "question": "Which organizations are involved as implementing partners alongside The Commons Project Foundation?",    "answer": "The ICT Chamber and the Society for Family Health (SFH),Rwanda."
+  },  {
+    "question": "What is the primary mission and core purpose of the KoraLink marketplace platform?",    "answer": "To advance education and relieve poverty for financially disadvantaged youth in Rwanda,predominantly women,by enabling them to become KoraLink agents and access work opportunities."
+  },  {
+    "question": "What is the total job creation target for the Digital Jobs for Youth in Health program?",    "answer": "Creating 44,00 jobs in total,which includes approximately 14,40 direct digital jobs in health and 29,60 indirect work opportunities."
+  },  {
+    "question": "What is the target average monthly earning for KoraLink Agents via the platform by the final year of the program?",    "answer": "Up to $310 per month."
+  },  {
+    "question": "What tech stack is functionally used to build the KoraLink marketplace platform?",    "answer": "A custom mobile application developed with React Native + Expo,a Next.js API backend,and a PostgreSQL database utilizing Prisma ORM."
+  },  {
+    "question": "How does the architecture ensure accessibility for rural users in low-connectivity contexts?",    "answer": "By maintaining integrated offline registration and sales capabilities via USSD/SMS fallback."
+  },  {
+    "question": "Which progression model is used to track,mentor,and support KoraLink Agents as commercial hubs?",    "answer": "A progression model moving from Level A (survival income) to Level C (multi-service offering) to Level F (small business employer)."
+  },  {
+    "question": "What operational areas are explicitly designated as out-of-scope for the KoraLink Digital Platform?",    "answer": "Physical logistics and distribution,direct healthcare or diagnostic services,comprehensive financial management outside transactions,program governance and contract management,a dedicated CRM for service delivery,and IoT device data tracking."
+  },  {
+    "question": "Which partner is primarily responsible for handling the physical distribution and logistics of health goods to KoraLink Agents?",    "answer": "Society for Family Health (SFH)."
+  },  {
+    "question": "What is the specific role and operational responsibility of the ICT Chamber regarding the platform?",    "answer": "Development,deployment,operation,and maintenance of the KoraLink marketplace platform,including providing technical support."
+  },  {
+    "question": "What specialized governance and operational user roles are supported on the platform?",    "answer": "SUPER_ADMIN,ADMIN/Merchant,Interviewer,Application Agent,Health Goods and Services Providers,Government Entities,and Fund Manager."
+  },  {
+    "question": "What are the three components evaluated to break down a KoraLink Agent's monthly performance score?",    "answer": "Repayments,Sales,and Orders."
+  },  {
+    "question": "What are the four performance tiers assigned to KoraLink Agents based on their monthly scores?",    "answer": "Bronze,Silver,Gold,and Platinum."
+  },  {
+    "question": "What non-functional requirement dictates the secure data privacy standard for user authentication on the platform?",    "answer": "Authentication must utilize JWT token-based authentication."
+  },  {
+    "question": "In the KoraLink Agent Application Management Module,what determines a candidate's preliminary vulnerability group?",    "answer": "Vulnerability indicators captured by the application form,such as income,disability,and digital access."
+  },  {
+    "question": "What mandatory fiscal integration must the platform certify and auto-submit invoices to?",    "answer": "The Rwanda Revenue Authority (RRA) EBM E-Invoice System."
+  },  {
+    "question": "What fallback protocol does the system use when an API call to the RRA EBM system fails due to connectivity?",    "answer": "The VSDC fallback mechanism."
+  },  {
+    "question": "Which third-party wallet provider system is integrated into the Wallet & Financial Management Module?",    "answer": "MVEND."
+  },  {
+    "question": "What is the default value for the Maximum Allowed Voucher ceiling per Agent across their entire lifecycle?",    "answer": "360,00 RWF."
+  },  {
+    "question": "What is the Initial Unrestricted Ceiling amount available to an Agent without repayment enforcement?",    "answer": "50,00 RWF."
+  },  {
+    "question": "What is the Maximum Voucher limit that can be allocated in a single order transaction?",    "answer": "50,00 RWF."
+  },  {
+    "question": "In the Restricted Phase,what minimum percentage of their Net Outstanding Voucher must an Agent contribute via wallet before a new voucher is issued?",    "answer": "70%."
+  },  {
+    "question": "What is the Revolving Fund Repayment Rate applied to total wallet payments for both products and services?",    "answer": "4%."
+  },  {
+    "question": "What formula defines the 'Net Outstanding Voucher' value for an Agent?",    "answer": "Gross Cumulative Received Voucher - Total Repaid Startup Capital - Unused Voucher Balance."
+  },  {
+    "question": "What critical business rule prevents overpayment into the Revolving Fund?",    "answer": "The Revolving Fund repayment is capped at the Agent's remaining outstanding startup capital (Gross Cumulative Received Voucher - Total Repaid)."
+  },  {
+    "question": "What reconciliation identity must the system validate before submitting any marketplace order?",    "answer": "Order Amount = Total Voucher Used + Wallet Payment."
+  },  {
+    "question": "Through which channels can a KoraLink Agent initiate a voluntary,standalone Revolving Fund repayment?",    "answer": "The Mobile App (via MVEND wallet integration) and USSD shortcode (with SMS confirmation)."
+  },  {
+    "question": "What hard prerequisite historical float data migration must take place before the digital services voucher module goes live?",    "answer": "DDIN historical float data migration."
+  },  {
+    "question": "What proof must be confirmed by SFH before inventory becomes 'active' in an agent's digital storefront?",    "answer": "Proof of physical delivery of orders utilizing vouchers."
+  },  {
+    "question": "How long can video or PDF resources from the Learning Management Module be stored locally for offline use?",    "answer": "7 days."
+  },  {
+    "question": "What are the minimum conditions required for an Agent to earn unscapped points under the Orders dimension?",    "answer": "A monthly total paid order value of at least 50,00 RWF and an order frequency of 2 or more confirmed orders."
+  },  {
+    "question": "If an Agent's reinvestment rate falls below 70% of their remaining unpaid starter stock grant balance,what cap is applied to their Orders points?",    "answer": "Orders points are capped at 20 regardless of order value."
+  },  {
+    "question": "What phone repayment compliance threshold percentage must an Agent maintain across a quarter to satisfy the quarterly incentive voucher eligibility gate?",    "answer": "An 80% or greater phone repayment compliance threshold."
+  },  {
+    "question": "What are the three specific conditions or gates evaluated at the end of a quarter to determine an Agent's voucher reward eligibility?",    "answer": "(1) Total monthly points >= 50 in the relevant month,(2) quarterly phone repayment compliance >= 80% across the three-month quarter,and (3) no confirmed major compliance violations or fraud findings."
+  },  {
+    "question": "What quarterly voucher amounts are awarded to Platinum,Gold,and Silver tier agents respectively?",    "answer": "30,00 RWF for Platinum,23,00 RWF for Gold,and 15,00 RWF for Silver."
+  },  {
+    "question": "What external phone repayment management system is integrated with the performance-based incentive module via API?",    "answer": "IntelliGra."
+  },  {
+    "question": "What is the asymmetric data visibility rule regarding Job Marketplace scores and feedback?",    "answer": "Fit Scores are visible only to the Employer,while Employer Feedback and Status Updates are visible only to the Agent."
+  },  {
+    "question": "What transaction throughput load is the platform architecture required to handle during regular use and peak bursts?",    "answer": "5-20 transactions per second during regular use,with peak burst capacity managing 50-100 transactions per second."
+  },  {
+    "question": "Within how many hours must a Personal Data breach be reported to the NCSA under the platform's incident response plan?",    "answer": "Within 48 hours."
+  },  {
+    "question": "What data retention duration does the platform adopt for fiscal and financial records?",    "answer": "A 10-year RRA fiscal retention period,which overrides the Foundation's 7-year minimum requirement."
+  },  {
+    "question": "What is the minimum uptime service reliability requirement mandated for all payment-related services?",    "answer": "At least 99.9% uptime."
+  },  {
+    "question": "What is the specific Agreement Term timeline governing the development and deployment of the KoraLink platform?",    "answer": "From March 1,2025,to August 31,2029."
+  },  {
+  "question": "What products are available on KoraLink?",  "answer": "KoraLink offers health and wellness products,hygiene products,community health goods,digital services such as airtime and utility payments,telehealth-related services,and other products provided by approved merchants like the Society for Family Health (SFH). The available catalog may vary depending on your location and current marketplace listings."
+  },  {
+    "question": "What specific demographic commitments must the platform track to evaluate onboarding success?",    "answer": "Ensuring that 80% to 90% of onboarded KoraLink Agents are women and 70% are rural-based."
+  },  {
+    "question": "Beginning on what date must the platform support the generation of mandatory quarterly narrative and financial reports?",    "answer": "Starting with the quarter ending June 30,2025."
+  },  {
+    "question": "Which external networks are targeted for Data Agreements to validate a candidate's digital income history during recruitment?",    "answer": "MOMO,MTN,and Equity."
+  },  {
+    "question": "What initial e-marketplace foundation serves as the predecessor to the KoraLink Digital Platform?",    "answer": "The initial IHUZO e-marketplace foundation."
+  },  {
+    "question": "What is the specific multi-year duration of the Digital Jobs for Youth in Health program in Rwanda?",    "answer": "The program spans from 2024 to 2028."
+  },  {
+    "question": "Who is the author/prepared-by individual listed for the KoraLink Marketplace Platform Version 5.0 Business Requirement Document (BRD)?",    "answer": "Kevin Asiimwe."
+  },  {
+    "question": "What database framework or engine is used alongside PostgreSQL via the Prisma ORM in the platform's backend?",    "answer": "A Next.js API backend."
+  },  {
+    "question": "What specific national strategies in Rwanda is the KoraLink marketplace platform positioned to complement?",    "answer": "Rwanda's Smart Village & Health Digitization strategies."
+  },  {
+    "question": "What are the exact levels or letters defined in the progression career ladder model for KoraLink Agents?",    "answer": "From Level A (survival income) to Level C (multi-service offering) to Level F (small business employer)."
+  },  {
+    "question": "What is the estimated number of indirect work opportunities targeted for creation under the program's economic empowerment goals?",    "answer": "29,60 indirect work opportunities."
+  },  {
+    "question": "What mechanism is utilized within the Revolving Sustainability Fund to provide initial goods and devices to program participants?",    "answer": "Repayable Grants."
+  },  {
+    "question": "Which partner or entity handles comprehensive financial management and procurement activities if one is explicitly retained by the Mastercard Foundation?",    "answer": "A dedicated Fund Manager."
+  },  {
+    "question": "What specific experimental integration related to service delivery is deferred to future phases of development?",    "answer": "A dedicated Customer Relationship Management (CRM) system."
+  },  {
+    "question": "What future operational tracking enhancement for advanced KoraLink Agents is currently out of scope?",    "answer": "Tracking installed Internet of Things (IoT) devices and the data collected by those devices."
+  },  {
+    "question": "Regarding personal data processing,what is the official legal status of The Commons Project Foundation (TCP) on the platform?",    "answer": "An independent data controller."
+  },  {
+    "question": "What specific operational categories represent the target candidate range for KoraLink Agents from entry-level to professional?",    "answer": "From Level A (no prior experience,motivated) to Group D (professionals like Nurses offering higher-value services)."
+  },  {
+    "question": "What specific manufacturer or service examples are listed under the Health Goods and Services Providers role?",    "answer": "TeleHealth/Irembo and Health Insurance/EdenCare."
+  },  {
+    "question": "Which local government entities or agencies are noted for policy alignment,training,or potential integration workflows?",    "answer": "The Ministry of Health,the National Cyber Security Agency (NCSA),the National Health Intelligence Center,and the Rwanda Revenue Authority (RRA)."
+  },  {
+    "question": "What structural tracking mechanism ensures that 100% of consumer sales are tracked and attributed to a single KoraLink Agent?",    "answer": "The architecture ensures all consumer sales are unambiguously credited to a single Agent's digital storefront."
+  },  {
+    "question": "What specific workforce planning tools are mentioned to help KoraLink Agents allocate their effort and manage time?",    "answer": "The Task Tracker or Work Week Planner."
+  },  {
+    "question": "What change in KoraLink Agent status requires supervisor approval when an agent wishes to pause availability for work or sales?",    "answer": "Indicating their unavailability ('offline' status)."
+  },  {
+    "question": "What specific documents and credentials must be readily available to KoraLink Agents to enhance their credibility in communities?",    "answer": "Copies of their signed contracts and a form of identification."
+  },  {
+    "question": "What specific operational indicator allows SFH Admins to filter KoraLink Agents to prioritize support interventions?",    "answer": "Repayment delinquency and overdue amounts."
+  },  {
+    "question": "What long-term out-of-ecosystem program outcome is tracked specifically by SFH's Monitoring and Evaluation (M&E) team?",    "answer": "Whether dropouts successfully secure jobs outside the KoraLink ecosystem."
+  },  {
+    "question": "What requirement governs the hiring and vetting workflows for prospective Employers browsing the Job Marketplace portal?",    "answer": "Identity-secured hiring and vetting workflows based on Agent certifications and trackable performance metrics."
+  },  {
+    "question": "What specific action auto-validates an entry during the Secure Registration & Access flow for a KoraLink Agent?",    "answer": "An SFH ID auto-validates via API."
+  },  {
+    "question": "What security standard must be present for consumer sign-ups when using just a phone number?",    "answer": "An OTP (One-Time Password) sent via SMS for verification."
+  },  {
+    "question": "What are the mandatory data profile fields required upon the auto-creation of a newly registered KoraLink Agent?",    "answer": "SFH ID,assigned location,and certifications."
+  },  {
+    "question": "What immediate notification is triggered by the system when an SFH Admin rejects a pending KoraLink Agent registration?",    "answer": "A rejection SMS stating the reason."
+  },  {
+    "question": "What restriction applies to the dashboard view of an SFH Admin when filtering KoraLink Agent applicants by region?",    "answer": "Admin can view and filter applicants only from their assigned region or district."
+  },  {
+    "question": "What specific automated SMS template format is triggered when a KoraLink Agent's inventory drops below 5 units?",    "answer": "\"Low stock! Only [X] nets left. Reply RESTOCK to request more\"."
+  },  {
+    "question": "What details must be recorded by the System's immutable inventory audit trail with unit-level granularity?",    "answer": "Transfer source,destination,initiator,status,and quantity."
+  },  {
+    "question": "What clear calculation text breakdown is displayed to a KoraLink Agent when verifying a commission example?",    "answer": "\"RWF 7,00 sale @ 10% = RWF 700\"."
+  },  {
+    "question": "What structural billing validation must be completed by the system prior to submitting an invoice to the RRA for an Employer?",    "answer": "TIN Validation for Employers."
+  },  {
+    "question": "How did the voucher request mechanism change in v5.0 compared to version 4.0 of the BRD?",    "answer": "Vouchers are no longer requested independently and approved before ordering; instead,allocation is computed by the system during order placement and embedded directly into the order approval workflow."
+  },  {
+    "question": "What specific action determines the payment flow when an order contains a mix of products where some do not accept voucher payment?",    "answer": "The system blocks voucher allocation,and the entire order must be paid via the Agent's wallet."
+  },  {
+    "question": "Where does SFH deposit the startup pack for digital service float orders before vouchers are disbursed to Agents via APIs?",    "answer": "Into the SFH Master Account on the digital service provider platform."
+  },  {
+    "question": "How does the system handle an Agent whose opening pre-loaded historical DDIN voucher balance equals or exceeds 50,00 RWF?",    "answer": "The Agent is placed directly into the Restricted Phase from their very first marketplace transaction."
+  },  {
+    "question": "What clear parameter prevents an Agent from making a voluntary repayment that exceeds their actual debt balance?",    "answer": "The repayment amount must not exceed the Agent's Net Outstanding Voucher; otherwise,the transaction is rejected."
+  },  {
+    "question": "What dashboard metric or visualization element updates instantly upon the execution of a successful voluntary repayment by an Agent?",    "answer": "The Progress Bar on the Agent dashboard."
+  },  {
+    "question": "What two automated system workflows are triggered simultaneously when an SFH Admin approves an order-embedded voucher request?",    "answer": "It automatically approves the associated order and triggers stock reservation via the Stock Management Module."
+  },  {
+    "question": "What are the specific details displayed on the Admin Dashboard for repayment monitoring?",    "answer": "Agent Name,Gross Voucher Received,Total Repaid,Net Outstanding,Unused Balance,Last Payment Date,and Payment Type."
+  },  {
+    "question": "What specific security requirement is enforced for card payment processing to protect cardholder data?",    "answer": "Ensuring PCI-DSS Level 4 certification compliance by tokenizing card numbers."
+  },  {
+    "question": "What primary feature must be provided by the Learning Management Module to facilitate real order practice for Agents?",    "answer": "A practical engagement or 'sandbox' environment."
+  },  {
+    "question": "What specific communication features are available to Course Facilitators within the Social Learning sub-module?",    "answer": "Pinning 'Concept Deep-Dive' threads to specific training modules,utilizing rich text,linking related resources,and receiving alerts for replies."
+  },  {
+    "question": "What two types of feedback inputs can a KoraLink Agent provide via the Learner Feedback Loop?",    "answer": "Structured (1-5 star rating) and unstructured (text comments) feedback."
+  },  {
+    "question": "Under what condition is an active KoraLink Agent completely excluded from the automated monthly incentive scoring calculation?",    "answer": "When the Agent is in a designated grace period."
+  },  {
+    "question": "What is the specific daily point calculation basis used to define an Agent's expected monthly phone repayment amount?",    "answer": "392 RWF multiplied by the number of days in the month."
+  },  {
+    "question": "What specific price basis is utilized by the system as the default value to aggregate total monthly sales value?",    "answer": "Recommended Retail Price (RRP) or an Agent-entered higher price where applicable."
+  },  {
+    "question": "What specific points are awarded for monthly sales values below 50,00 RWF,between 50,00-100,00 RWF,and above 350,00 RWF respectively?",    "answer": "0 points,10 points,and 50 points."
+  },  {
+    "question": "What happens if an IntelliGra system API integration experiences unavailability during the scheduled incentive scoring window?",    "answer": "The system flags the affected Agent's repayment score as pending,notifies the Admin,and allows for a manual trigger once data becomes available."
+  },  {
+    "question": "What specific layout panel is displayed alongside the multi-section form during job creation on the Employer Web Portal?",    "answer": "A right-side 'Live Preview' panel."
+  },  {
+    "question": "What are the defined visual status pipeline stages used by employers to track job candidates?",    "answer": "New,Shortlisted,Interviewed,and Hired/Rejected."
+  },  {
+    "question": "What file formats are supported for KoraLink Agents uploading attachments like health certificates during applications?",    "answer": "PDF and JPG formats."
+  },  {
+    "question": "What is the total estimated budget managed under the overall program funding from the Mastercard Foundation?",    "answer": "Approximately US $25,64,16."
+  },  {
+    "question": "What target transaction conflict rate metric defines successful transaction integrity on the platform?",    "answer": "A target conflict rate of less than 0.05%."
+  },  {
+    "question": "What language options must be supported for the platform's user interfaces and training content localizations?",    "answer": "Both Kinyarwanda and English."
+  },  {
+    "question": "What products does KoraLink offer?",    "answer": "KoraLink offers health products,wellness products,hygiene products,and digital services through its marketplace."
+  },  {
+    "question": "What services does KoraLink provide?",    "answer": "KoraLink provides employment services,marketplace services,wallet services,inventory management,digital payments,and other digital solutions."
+  },  {
+    "question": "What can I buy on KoraLink?",    "answer": "You can purchase approved health products,hygiene products,and other products available through authorized merchants."
+  },  {
+    "question": "What kind of products are available on KoraLink?",    "answer": "KoraLink provides health-related products,hygiene items,wellness products,and digital services."
+  },  {
+    "question": "Does KoraLink sell health products?",    "answer": "Yes. KoraLink offers approved health products through its marketplace."
+  },  {
+    "question": "Does KoraLink provide digital services?",    "answer": "Yes. KoraLink supports several digital services,including digital payments and other partner services."
+  },  {
+    "question": "Can I buy hygiene products on KoraLink?",    "answer": "Yes. Hygiene products are available through the KoraLink marketplace."
+  },  {
+    "question": "Can I purchase wellness products?",    "answer": "Yes. Wellness products are available from approved merchants."
+  },  {
+    "question": "Who supplies products on KoraLink?",    "answer": "Products are supplied by approved merchants and authorized partners."
+  },  {
+    "question": "Does KoraLink have a marketplace?",    "answer": "Yes. KoraLink includes a marketplace where agents can browse and sell approved products and services."
+  },  {
+    "question": "What digital products are available?",    "answer": "Digital offerings include services such as airtime,utility payments,and other partner-enabled services."
+  },  {
+    "question": "Can I sell products through KoraLink?",    "answer": "Yes. Eligible agents can sell approved products available in the KoraLink marketplace."
+  },  {
+    "question": "Can businesses list products on KoraLink?",    "answer": "Approved merchants and partners can provide products through the KoraLink platform."
+  },  {
+    "question": "Does KoraLink offer telehealth services?",    "answer": "KoraLink supports telehealth-related digital services where available."
+  },  {
+    "question": "Can I pay utility bills using KoraLink?",    "answer": "Yes. KoraLink supports utility payment services through its digital platform."
+  },  {
+    "question": "Can I buy airtime on KoraLink?",    "answer": "Yes. Airtime purchase is one of the supported digital services."
+  },  {
+    "question": "What categories of products are available?",    "answer": "Available categories include health products,hygiene products,wellness products,and digital services."
+  },  {
+    "question": "Are all products approved?",    "answer": "Yes. Products available through KoraLink are provided by approved merchants and authorized partners."
+  },  {
+    "question": "Does KoraLink update its product catalog?",    "answer": "Yes. The product catalog may change as new products and services become available."
+  },  {
+    "question": "Can I browse products before buying?",    "answer": "Yes. Users can browse available products in the KoraLink marketplace before making a purchase."
+  },  {
+    "question": "Can agents recommend products to customers?",    "answer": "Yes. Agents can recommend and sell approved products through the KoraLink platform."
+  },  {
+    "question": "What services are available for agents?",    "answer": "Agents can access job opportunities,marketplace sales,wallet services,inventory management,and training resources."
+  },  {
+    "question": "Does KoraLink offer employment services?",    "answer": "Yes. KoraLink connects agents with employers and available job opportunities."
+  },  {
+    "question": "Can employers recruit using KoraLink?",    "answer": "Yes. Employers can post jobs,review applicants,and hire qualified agents."
+  },  {
+    "question": "Does KoraLink support online payments?",    "answer": "Yes. The platform includes secure wallet and payment services."
+  },  {
+    "question": "Can I receive payments through KoraLink?",    "answer": "Yes. Users can receive payments through the KoraLink wallet."
+  },  {
+    "question": "Does KoraLink provide inventory management?",    "answer": "Yes. KoraLink includes inventory management tools for agents and merchants."
+  },  {
+    "question": "Can I track my sales?",    "answer": "Yes. Sales performance and transaction history can be viewed within the platform."
+  },  {
+    "question": "Does KoraLink provide financial services?",    "answer": "Yes. The platform includes wallet functionality,payments,and other financial services."
+  },  {
+    "question": "What business services does KoraLink provide?",    "answer": "KoraLink supports recruitment,product sales,inventory management,digital payments,and reporting."
+  },  {
+    "question": "Can I manage inventory using KoraLink?",    "answer": "Yes. Inventory management features are available for eligible users."
+  },  {
+    "question": "Does KoraLink provide reporting tools?",    "answer": "Yes. The platform provides reporting and analytics features for business users."
+  },  {
+    "question": "Can I view available products online?",    "answer": "Yes. Products can be viewed through the KoraLink marketplace."
+  },  {
+    "question": "Where can I see available services?",    "answer": "Available services can be explored within the KoraLink platform and marketplace."
+  },  {
+    "question": "Does KoraLink offer new products regularly?",    "answer": "Yes. New products and services may be introduced as the marketplace expands."
+  }
+]
