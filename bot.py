@@ -19,10 +19,7 @@ def answer_user_question(user_question, threshold=0.55):
     scores = np.dot(question_embeddings, q_emb) / (
         np.linalg.norm(question_embeddings, axis=1) * np.linalg.norm(q_emb)
     )
-    # top_indices = np.argsort(scores)[-top_k:][::-1]
-    # context = "\n\n".join(f"{answers[i]}" for i in top_indices)
-    
-    # return context
+   
 
     best_index = np.argmax(scores)
     best_score = scores[best_index]
