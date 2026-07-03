@@ -5,7 +5,7 @@ import json
 
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
-with open("../koralink-bot-new/lambot/data/koralink_faqs_flat.json") as f:
+with open("koralink_faqs_flat.json") as f:
     qa_pairs = json.load(f)
 
 questions = [item["question"] for item in qa_pairs]
