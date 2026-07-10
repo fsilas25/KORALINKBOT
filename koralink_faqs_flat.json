@@ -938,5 +938,512 @@
     "question": "Where can I see available services?",    "answer": "Available services can be explored within the KoraLink platform and marketplace."
   },  {
     "question": "Does KoraLink offer new products regularly?",    "answer": "Yes. New products and services may be introduced as the marketplace expands."
+  },  {
+    "question": "Who is this manual written for?",   "answer": "This manual is written for first-time KoraLink Agent users. You do not need any prior experience with smartphones or business apps to follow it."
+  },  {
+    "question": "What is the KoraLink App?",
+    "answer": "The KoraLink App is a business tool that runs on the mobile phone provided to you through the KoraLink Program. It allows you to view earnings and capital, record sales, check inventory, order new stock, sell digital services, and track your voucher balance and repayments."
+  },
+  {
+    "question": "Do I need to keep a separate notebook to track my business?",
+    "answer": "No. Everything you do on the app—including sales, stock, earnings, and repayments—is recorded automatically so you do not need to keep a separate notebook."
+  },
+  {
+    "question": "How do I contact the KoraLink support team, and what are their hours?",
+    "answer": "You can reach support by calling +250 796 602 807 from Monday to Friday, 8:00 AM – 6:00 PM. You can also use the KoraLink WhatsApp support line if it was provided to you by your SFH supervisor."
+  },
+  {
+    "question": "What is Capital?",
+    "answer": "Capital is the total value of everything your business holds, combining your physical stock value and any earnings. Your starting capital is the value of the starter stock given to you by SFH."
+  },
+  {
+    "question": "What is a Voucher?",
+    "answer": "A voucher is startup capital support provided by SFH that allows you to order stock without paying the full amount upfront. You receive vouchers as part of the KoraLink Revolving Fund."
+  },
+  {
+    "question": "What is Repayment and how does it work?",
+    "answer": "Repayment is how you pay back your voucher balance. It happens automatically—every time you pay for a stock order using your Ikofi wallet, 4% of that wallet payment goes toward your voucher balance. You do not need to calculate this yourself."
+  },
+  {
+    "question": "What is Ikofi?",
+    "answer": "Ikofi is the Kinyarwanda name for your in-app wallet where your money is held for platform transactions. It is located on the fourth tab at the bottom of your screen."
+  },
+  {
+    "question": "What is Commission?",
+    "answer": "Commission is the profit you earn on each sale, calculated as the difference between the cost price and the selling price."
+  },
+  {
+    "question": "How do I know I am logged into the correct account?",
+    "answer": "An orange bar at the top of the Home screen will greet you by your name (for example, 'Hi, Perfect') to confirm you are in the correct account."
+  },
+  {
+    "question": "What do the two summary cards at the top of the Home screen show?",
+    "answer": "The left card shows your Total Earnings (the total profit made from sales), and the right card shows your Capital (the total value of your business, including stock). Tapping either card opens a detailed breakdown."
+  },
+  {
+    "question": "Does the 'Outstanding balance' on my Voucher Repayment Banner mean I owe a lump-sum payment immediately?",
+    "answer": "No, it does not mean you owe a lump-sum payment right now. The outstanding amount decreases over time as 4% of every wallet order you place goes toward this balance automatically."
+  },
+  {
+    "question": "What are the four icons on the bottom navigation bar?",
+    "answer": "The four main navigation tabs are: 1. Home (house icon), 2. Inventory (box icon), 3. Services (lightning bolt icon), and 4. Wallet (wallet icon labelled Ikofi)."
+  },
+  {
+    "question": "Why must I record every sale in the app?",
+    "answer": "Recording sales tracks your commission, automatically updates your stock count, ensures the customer receives an SMS receipt, and contributes to your performance score for potential incentive vouchers from SFH."
+  },
+  {
+    "question": "When should I record a sale?",
+    "answer": "Always record a sale in the app before the customer leaves. Sales recorded later may not match your stock accurately."
+  },
+  {
+    "question": "What is the difference between a Customer sale and a Business sale?",
+    "answer": "Select Customer if you are selling to an individual person (this is the most common). Select Business if you are selling to a company or organization."
+  },
+  {
+    "question": "What details are shown on a product card?",
+    "answer": "Each product card shows a photo, the product name/pack size, the selling price (in orange), the cost price charged by SFH, and your current stock count."
+  },
+  {
+    "question": "Can I change the selling price of a product when making a sale?",
+    "answer": "Yes, the Selling Price field below the product list is editable when you are recording a sale."
+  },
+  {
+    "question": "How do I add multiple items or quantities to a single sale?",
+    "answer": "Use the '+' and '-' buttons in the Quantity field to change units, then tap '+ Add Product'. You can repeat this process to add multiple different products to a single sale."
+  },
+  {
+    "question": "What customer information is required to submit a sale?",
+    "answer": "You must enter the customer's full name and phone number (the +250 country code is pre-filled). Email is optional and can be left blank."
+  },
+  {
+    "question": "What do the summary cards on the Inventory screen represent?",
+    "answer": "The 'Products' card shows the number of different products currently in your inventory, and the 'Inventory Value' card shows the total cost value of all your stock."
+  },
+  {
+    "question": "How do I request new stock?",
+    "answer": "Go to the Inventory tab, tap the orange 'Request Product' button at the bottom, select your products and quantities, and submit it for SFH approval."
+  },
+  {
+    "question": "How is a new stock order paid for?",
+    "answer": "The system automatically checks your voucher balance to determine how much voucher support can be applied, and charges the remaining amount to your Ikofi wallet. You do not need to calculate this split yourself."
+  },
+  {
+    "question": "What do the different order statuses mean under My Requests?",
+    "answer": "'Pending' means your order is waiting for SFH review; 'Approved' means SFH has approved it and your stock is being prepared; 'Cancelled' means the order did not go through."
+  },
+  {
+    "question": "What should I do if a stock order is Cancelled?",
+    "answer": "Your wallet payment should be reversed automatically. If you see a cancelled order but your balance has not been restored, contact support immediately with the order reference number."
+  },
+  {
+    "question": "What are Digital Services and who is the provider?",
+    "answer": "Digital services let you earn commission without needing physical products. The active provider currently available on the KoraLink platform is DDIN."
+  },
+  {
+    "question": "What digital services can I sell through DDIN?",
+    "answer": "You can sell Prepaid Electricity (EUCL), MTN Airtime, Airtel Airtime, RRA Tax payment assistance, and Startimes PayTV subscription renewals."
+  },
+  {
+    "question": "What is Float and how do I top it up?",
+    "answer": "Float is your digital services balance used to process transactions. It decreases with every sale. When it runs low, you can place a float top-up (refloating) order through the Inventory tab, just like ordering physical products."
+  },
+  {
+    "question": "How do I give an electricity token code to a customer?",
+    "answer": "Tap the 'History' button on the DDIN dashboard, find the electricity transaction, and tap the 'Copy Token' button below the entry to copy and share the code."
+  },
+  {
+    "question": "What should I do if a digital service transaction fails?",
+    "answer": "If a transaction shows a status of 'Failed', the customer was not charged and the service was not delivered. Do not collect payment from the customer. Try again or contact support."
+  },
+  {
+    "question": "Can I change my name, phone number, or assigned district in the app?",
+    "answer": "No, your profile details are set during your SFH onboarding and cannot be changed from within the app. If any details are incorrect, contact your SFH supervisor."
+  },
+  {
+    "question": "Why must I set up a wallet PIN?",
+    "answer": "Your PIN protects all financial transactions on the platform, including stock order payments, repayments, and digital service top-ups. You must set it up before you can use any wallet features."
+  },
+  {
+    "question": "Will KoraLink support ever ask for my wallet PIN?",
+    "answer": "No. Never share your PIN with anyone, including SFH staff or support agents. KoraLink support will never ask you for your PIN."
+  },
+  {
+    "question": "What should I do if I forget my wallet PIN?",
+    "answer": "If you forget your wallet PIN, contact KoraLink support immediately to get assistance."
+  },
+  {
+    "question": "When should I use the Logout button?",
+    "answer": "Always tap Logout at the bottom of your Profile page when you finish using the app on a shared device."
+  },
+  {
+    "question": "What kind of messages will I receive in the Communications inbox?",
+    "answer": "You will receive important messages including stock order confirmations, 4% repayment confirmations, notifications from SFH about program updates, and account alerts."
+  },
+  {
+    "question": "I am expecting an order confirmation message but don't see it. What should I do?",
+    "answer": "Check the 'Failed' and 'Pending' filter tabs at the top of the Communications screen before contacting support to see if the message is still sending or failed to deliver."
+  },
+  {
+    "question": "Where do I go to record a sale?",
+    "answer": "Go to the Home screen, tap the green 'Record Sale' button, select the product, enter the details, and submit."
+  },
+  {
+    "question": "Where do I go to check my earnings?",
+    "answer": "Go to the Home screen and tap the 'Total Earnings' card on the left."
+  },
+  {
+    "question": "Where do I go to see my current stock?",
+    "answer": "Tap the 'Inventory' tab (the box icon) in the bottom navigation bar."
+  },
+  {
+    "question": "Where do I go to order more stock?",
+    "answer": "Tap the 'Inventory' tab in the bottom navigation bar, then tap the orange 'Request Product' button at the bottom."
+  },
+  {
+    "question": "Where do I go to check my order history?",
+    "answer": "Tap the 'Inventory' tab in the bottom navigation bar, then click the 'My Requests' link just below the summary cards."
+  },
+  {
+    "question": "Where do I go to sell airtime or electricity?",
+    "answer": "Tap the 'Services' tab (lightning bolt icon) in the bottom navigation bar and select 'DDIN'."
+  },
+  {
+    "question": "Where do I go to check my repayment balance?",
+    "answer": "Tap your profile avatar in the top-right corner, stay on the Overview tab, and look at the 'Voucher repayment' card."
+  },
+  {
+    "question": "Where do I go to check my vouchers?",
+    "answer": "Tap your profile avatar in the top-right corner, go to the General section, and tap 'Manage Vouchers'."
+  },
+  {
+    "question": "Where do I go to set up my wallet PIN?",
+    "answer": "Tap the 'Wallet' tab (labelled Ikofi) in the bottom navigation bar, and if it is your first time, tap the orange 'Set Up PIN' button."
+  },
+  {
+    "question": "Where do I go to get help within the app?",
+    "answer": "Go to the Home screen, tap the blue 'Need Help?' banner to check the FAQ page, or call support at +250 796 602 807."
+  },
+  {
+    "question": "Who are the partners behind KoraLink?",
+    "answer": "TCP Africa, SFH Rwanda, ICT Chamber, and Mastercard Foundation."
+  },
+  {
+    "question": "What does 'Agents' mean in KoraLink's key figures?",
+    "answer": "Agents refers to the field sales workforce deployed across Rwanda's districts."
+  },
+  {
+    "question": "What is the maximum voucher allocation per Agent under the Revolving Fund?",
+    "answer": "RWF 360,000."
+  },
+  {
+    "question": "How many merchants are on the KoraLink platform?",
+    "answer": "2+ merchants: SFH Rwanda and BASIL Industries Ltd, with further partners on the roadmap."
+  },
+  {
+    "question": "How many digital services are live on the platform?",
+    "answer": "5 services, live via DDIN integration."
+  },
+  {
+    "question": "What modules are live in production on KoraLink?",
+    "answer": "Six modules: Agent Mobile App, Stock Management, Digital Services (DDIN), Ikofi Wallet, Revolving Fund Engine, and Admin Platform."
+  },
+  {
+    "question": "What technology is the Agent Mobile App built on?",
+    "answer": "React Native and Expo."
+  },
+  {
+    "question": "Which tabs are live on Agent devices?",
+    "answer": "Home, Inventory, Services, and Ikofi Wallet."
+  },
+  {
+    "question": "What does the Stock Management module include?",
+    "answer": "Full product catalogue, real-time inventory tracking, and multi-merchant order placement from a single interface."
+  },
+  {
+    "question": "What services does the DDIN integration cover?",
+    "answer": "Prepaid Electricity (EUCL), MTN Airtime, Airtel Airtime, RRA Tax payment, and StarTimes PayTV subscription."
+  },
+  {
+    "question": "What powers the Ikofi Wallet?",
+    "answer": "MVEND. It includes mandatory PIN security, automatic voucher application at order placement, and a 4% auto-repayment deduction on every wallet order."
+  },
+  {
+    "question": "What does the Revolving Fund Engine do?",
+    "answer": "It manages a two-phase voucher issuance model, real-time repayment tracking, and an Agent-facing outstanding balance dashboard updated after every order."
+  },
+  {
+    "question": "What does the Admin Platform provide?",
+    "answer": "An SFH admin dashboard for order approval, Agent performance oversight, and revolving fund monitoring."
+  },
+  {
+    "question": "What are the five stages of the Agent workflow?",
+    "answer": "Onboard, Order Stock, Sell, Earn, and Sell Services."
+  },
+  {
+    "question": "What happens during Onboarding?",
+    "answer": "SFH registers the Agent on the platform and loads starter stock via the revolving fund voucher. The Agent receives their device and credentials, and initial inventory allocation is included."
+  },
+  {
+    "question": "What happens during Order Stock?",
+    "answer": "The Agent places a stock order from the product catalogue. The system automatically splits payment between voucher balance and the Agent's Ikofi wallet, and 4% of the wallet portion is automatically deducted as revolving fund repayment."
+  },
+  {
+    "question": "What happens during the Sell stage?",
+    "answer": "The Agent records each customer sale using the Record Sale screen. Stock count and earnings update in real time after submission, and customer name, phone number, and payment method are captured at the point of sale."
+  },
+  {
+    "question": "What happens during the Earn stage?",
+    "answer": "Commission accrues per sale as the difference between the product's cost price and the Agent's selling price. VAT is calculated automatically through the platform's RRA EBM integration. Earnings are visible on the Home screen and in the Earnings Details breakdown."
+  },
+  {
+    "question": "What happens during the Sell Services stage?",
+    "answer": "The Agent uses their DDIN float balance to process digital service transactions for customers, including airtime top-ups, electricity tokens, tax payments, and PayTV subscriptions. Commission accrues on each successful transaction and is credited to the Agent's account."
+  },
+  {
+    "question": "What is the Revolving Fund Loop?",
+    "answer": "4% of every wallet order automatically repays the Agent's outstanding voucher balance - no manual action is required from the Agent or SFH admin."
+  },
+  {
+    "question": "What is the purpose of the Home screen?",
+    "answer": "It's the Agent's daily starting point, surfacing key financial position and providing direct access to recording a sale and checking sales history."
+  },
+  {
+    "question": "What appears at the top of the Home screen?",
+    "answer": "Total Earnings and Capital summary cards, shown on every login."
+  },
+  {
+    "question": "What does the Capital card reflect?",
+    "answer": "The total value of the Agent's current stock."
+  },
+  {
+    "question": "Are the Home screen summary cards interactive?",
+    "answer": "Yes, both cards are tappable and open detailed breakdowns for full visibility."
+  },
+  {
+    "question": "What does the Voucher Repayment Progress banner show?",
+    "answer": "The outstanding balance and repayment percentage in real time; the progress bar updates automatically after every order."
+  },
+  {
+    "question": "How does an Agent record a sale?",
+    "answer": "By tapping Record Sale, which opens a single form for product selection, quantity, selling price, payment method, and customer information."
+  },
+  {
+    "question": "How long does it take to record a sale?",
+    "answer": "A completed sale can be submitted in under 60 seconds, with stock updating automatically on submission."
+  },
+  {
+    "question": "What customer information does the sale form capture?",
+    "answer": "Customer Name, Phone Number (with +250 prefix pre-filled), and optional Email for SMS receipts and sale attribution."
+  },
+  {
+    "question": "What does the Inventory tab provide?",
+    "answer": "Full visibility of current stock and access to the stock ordering flow."
+  },
+  {
+    "question": "What is an example stock order breakdown in the app?",
+    "answer": "Order #wimiqhq7 - Merchant: SFH Rwanda, Products: 2 items, Total Amount: RWF 23,712, Voucher Used: RWF 0, Wallet Charged: RWF 22,800, Loan Repayment (4%): RWF 912, Status: Cancelled."
+  },
+  {
+    "question": "How is the 4% repayment applied on stock orders?",
+    "answer": "Every wallet order automatically deducts 4% for the revolving fund, with no manual steps from the Agent or admin."
+  },
+  {
+    "question": "Can Agents order from multiple merchants?",
+    "answer": "Yes - Agents can order from SFH Rwanda, BASIL Industries Ltd, and future merchant partners from one catalogue using merchant filter tabs."
+  },
+  {
+    "question": "What does the order audit trail show?",
+    "answer": "Each order shows the voucher amount, wallet charge, and revolving fund repayment, visible to Agents, admins, and auditors."
+  },
+  {
+    "question": "What does the Services tab provide?",
+    "answer": "Access to the DDIN digital services catalogue, using the Agent's DDIN float balance."
+  },
+  {
+    "question": "What is an example DDIN Float Balance?",
+    "answer": "RWF 760.00 (live example)."
+  },
+  {
+    "question": "What services are available in the live DDIN catalogue?",
+    "answer": "Prepaid Electricity (EUCL), MTN Airtime, Airtel Airtime, RRA Tax, and StarTimes PayTV."
+  },
+  {
+    "question": "How does the Prepaid Electricity (EUCL) service work?",
+    "answer": "Agents sell electricity tokens to customers with prepaid meters. A token is generated on transaction completion and displayed with a Copy Token button for immediate sharing with the customer."
+  },
+  {
+    "question": "What does the MTN Airtime service do?",
+    "answer": "Tops up MTN mobile numbers on behalf of customers."
+  },
+  {
+    "question": "What does the Airtel Airtime service do?",
+    "answer": "Tops up Airtel mobile numbers on behalf of customers."
+  },
+  {
+    "question": "What does the RRA Tax service do?",
+    "answer": "Facilitates Rwanda Revenue Authority tax payments for customers."
+  },
+  {
+    "question": "What does the StarTimes PayTV service do?",
+    "answer": "Renews StarTimes satellite TV subscriptions for customers."
+  },
+  {
+    "question": "What is an example total commission from digital services?",
+    "answer": "RWF 2,057 total commission, accruing instantly on each successful service and reflected in the Agent's earnings."
+  },
+  {
+    "question": "How is the EUCL electricity token delivered to the customer?",
+    "answer": "It's generated on completion and displayed inline with a Copy Token button, making it easy to share with the customer."
+  },
+  {
+    "question": "What is an example of an Agent's voucher management data?",
+    "answer": "Voucher Balance: RWF 0; Voucher Limit: RWF 216,000; Available to Request: RWF 208,461.2; Total Borrowed: RWF 7,538.8; Repaid So Far: RWF 0; Outstanding: RWF 7,538.8."
+  },
+  {
+    "question": "How many vouchers had been issued to the example Agent, and what were their values?",
+    "answer": "Three vouchers - VCH654126459863 (RWF 742.8), VCH640900885898 (RWF 2,476), and VCH134742802743 (RWF 4,320) - totaling RWF 7,538.8, all fully consumed."
+  },
+  {
+    "question": "What does the Voucher Limit of RWF 216,000 represent?",
+    "answer": "The remaining ceiling from the programme maximum of RWF 360,000."
+  },
+  {
+    "question": "What repayment rule is displayed to the Agent in the app?",
+    "answer": "'You repay 4% of every wallet order automatically.'"
+  },
+  {
+    "question": "Where is the repayment rule shown, and why?",
+    "answer": "On the Agent's Profile screen, giving a self-service explanation of the repayment mechanic and reducing inbound support queries to SFH."
+  },
+  {
+    "question": "How is the Ikofi Wallet secured?",
+    "answer": "Access is gated by a mandatory PIN setup on first access; financial operations such as stock order payments, repayments, and digital service payments remain blocked until the PIN is configured."
+  },
+  {
+    "question": "Where can Agents view their full voucher history?",
+    "answer": "In 'Manage Vouchers', where every issued voucher appears with its unique code, total value, remaining balance, status, and a Copy Code button for reference or support queries."
+  },
+  {
+    "question": "What does the Business tab show?",
+    "answer": "The Agent's registered Business Name and Business Type."
+  },
+  {
+    "question": "What is the Business Type for all Agents?",
+    "answer": "'KoraLink Agent', system-assigned for all Agents."
+  },
+  {
+    "question": "What does the Business Type classification govern?",
+    "answer": "Access, voucher limits, commissions, and permissions."
+  },
+  {
+    "question": "What frontend technologies does KoraLink use?",
+    "answer": "React Native + Expo for the Agent Mobile App, and Next.js for the web platform (Admin and Employer Dashboards)."
+  },
+  {
+    "question": "What backend technologies does KoraLink use?",
+    "answer": "A Next.js API layer, PostgreSQL database, MVEND (wallet/payment gateway), Twilio (SMS dispatch), and SendGrid (email dispatch)."
+  },
+  {
+    "question": "What live integrations does KoraLink have?",
+    "answer": "DDIN (digital services), IntelliGra (phone repayment data for the Agent Performance-Based Incentive Module), RRA EBM (VAT compliance), and ICT Chamber (platform customisation, deployment, and ongoing operations)."
+  },
+  {
+    "question": "What does DDIN provide?",
+    "answer": "Digital services including airtime, electricity, tax, and PayTV."
+  },
+  {
+    "question": "What does IntelliGra provide?",
+    "answer": "Phone repayment data for the Agent Performance-Based Incentive Module."
+  },
+  {
+    "question": "What does the RRA EBM integration handle?",
+    "answer": "Rwanda Revenue Authority Electronic Billing Machine functions for VAT compliance."
+  },
+  {
+    "question": "What role does ICT Chamber play?",
+    "answer": "Platform customisation, deployment, and ongoing operations."
+  },
+  {
+    "question": "What features are on KoraLink's roadmap?",
+    "answer": "TeleHealth via Irembo, Health Insurance via EdenCare, USSD/SMS Offline Fallback for low-connectivity contexts, and Resolvelt Ticketing Integration for Agent support."
+  },
+  {
+    "question": "What will the USSD/SMS Offline Fallback be used for?",
+    "answer": "Supporting low-connectivity contexts."
+  },
+  {
+    "question": "What will the Resolvelt integration provide?",
+    "answer": "Ticketing integration for Agent support."
+  },
+  {
+    "question": "Who will provide TeleHealth and Health Insurance services on the roadmap?",
+    "answer": "TeleHealth via Irembo, and Health Insurance via EdenCare."
+  },
+  {
+    "question": "Why is my Ikofi Wallet locked and I can't make payments?",
+    "answer": "Wallet access requires a mandatory PIN setup on first use. Financial operations - including stock order payments, repayments, and digital service payments - stay blocked until you configure your PIN. Go to your Wallet settings and set up your PIN to unlock these actions."
+  },
+  {
+    "question": "I forgot my Ikofi Wallet PIN. What should I do?",
+    "answer": "This document does not specify a PIN-reset flow. Contact SFH support or your platform admin to reset your wallet PIN, and have your Agent ID or registered phone number ready."
+  },
+  {
+    "question": "Why can't I place a stock order?",
+    "answer": "Common causes: your Ikofi Wallet PIN isn't set up yet, your voucher balance and wallet funds together are insufficient for the order total, or your voucher limit has been reached. Check your Home screen's Capital and Voucher Repayment Progress banner for your current balances."
+  },
+  {
+    "question": "My stock order shows 'Cancelled' status - what does that mean?",
+    "answer": "A 'Cancelled' status means the order did not go through to completion (as seen in the example order #wimiqhq7). Check the Inventory tab for order details, or contact SFH admin if you believe this was in error."
+  },
+  {
+    "question": "Why does my order show a wallet charge but zero voucher used?",
+    "answer": "The system automatically splits payment between your voucher balance and Ikofi wallet. If your voucher balance is RWF 0 or insufficient, the full order amount is charged to your wallet instead."
+  },
+  {
+    "question": "Why was 4% deducted from my wallet charge?",
+    "answer": "This is the automatic revolving fund repayment. Every wallet order deducts 4% of the wallet-charged portion to repay your outstanding voucher balance - this happens automatically with no manual steps needed."
+  },
+  {
+    "question": "My DDIN float balance is too low to process a service. What should I do?",
+    "answer": "Your DDIN float balance funds digital service transactions like airtime, electricity, tax, and PayTV. If it's too low, you'll need to top up your float through the channel your programme uses before processing further service sales. Contact SFH admin if you're unsure how to top up."
+  },
+  {
+    "question": "A customer's electricity token didn't generate. What now?",
+    "answer": "Check the transaction status in your Services tab first - the token normally displays inline with a Copy Token button once the transaction completes. If the transaction shows as failed or pending, retry it, and contact support if the issue persists so the payment isn't lost."
+  },
+  {
+    "question": "Why isn't my commission showing up in my earnings yet?",
+    "answer": "Commission from product sales is calculated as the difference between cost price and selling price, and should appear in your Home screen and Earnings Details after you submit the sale. For digital services, commission accrues instantly on successful transactions. If it's missing, confirm the sale or transaction actually completed successfully."
+  },
+  {
+    "question": "My Voucher Repayment Progress bar hasn't updated after an order. What's wrong?",
+    "answer": "The progress bar is designed to update automatically after every order. If it hasn't refreshed, try closing and reopening the app, or check your internet connection, since updates depend on syncing with the platform."
+  },
+  {
+    "question": "How do I check my remaining voucher balance and limit?",
+    "answer": "Go to your Profile or Manage Vouchers screen, which shows Voucher Balance, Voucher Limit, Available to Request, Total Borrowed, Repaid So Far, and Outstanding amounts."
+  },
+  {
+    "question": "Can I get a copy of my voucher code for a support query?",
+    "answer": "Yes. In Manage Vouchers, each issued voucher has a Copy Code button you can use to quickly reference or share the code with support."
+  },
+  {
+    "question": "Who do I contact if I have an issue the app can't resolve?",
+    "answer": "Contact SFH Rwanda support/admin. Note: a dedicated in-app ticketing system (Resolvelt Ticketing Integration) is on the roadmap but not yet live."
+  },
+  {
+    "question": "Is KoraLink available outside Rwanda?",
+    "answer": "Based on the available information, KoraLink currently operates across Rwanda's districts. No information is provided about operations outside Rwanda."
+  },
+  {
+    "question": "Do I need internet access to use the KoraLink app?",
+    "answer": "The current build does not mention offline support. A USSD/SMS Offline Fallback for low-connectivity contexts is listed on the roadmap but is not yet live."
+  },
+  {
+    "question": "What is the difference between the Voucher balance and the Ikofi Wallet?",
+    "answer": "The voucher is starter capital issued under the Revolving Fund (up to RWF 360,000 total) that gets applied automatically to stock orders. The Ikofi Wallet is the Agent's own MVEND-powered wallet used to cover the remaining cost of orders and services, and it's where the 4% auto-repayment is deducted from."
   }
+
+
 ]
