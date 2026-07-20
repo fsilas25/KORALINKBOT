@@ -5,3 +5,7 @@ sentence-transformers
 numpy
 Flask
 flask-cors
+ollama
+pypdf
+groq
+python-dotenv
