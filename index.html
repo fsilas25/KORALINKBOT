@@ -116,6 +116,7 @@ body {
     color: #334155; /* Soft dark slate text color */
     font-size: 15px;
     line-height: 1.4;
+    white-space: pre-wrap;
 }
 
 .user-message {
@@ -141,6 +142,20 @@ body {
     width: fit-content;
     color: #ef4444;
     font-size: 14px;
+}
+
+/* Clickable numbered options rendered inside a bot message */
+.list-option {
+    cursor: pointer;
+    padding: 2px 4px;
+    margin: 2px -4px;
+    border-radius: 6px;
+    transition: background-color 0.15s;
+}
+
+.list-option:hover {
+    background: #eef1fd;
+    color: #2f3fba;
 }
 
 .typing {
@@ -221,13 +236,13 @@ body {
              style="height:40px; width:40px; border-radius:50%;">
 
         <span>KoraLink Assistant</span>
-    </div>
+    </div> 
 
     <div style="display:flex; align-items:center; gap:10px;">
 
         <select id="languageSelect">
             <option value="en">En</option>
-            <option value="rw">Rw</option>
+            <option value="rw">Kiny</option>
         </select>
 
         <span class="close-btn"
@@ -240,10 +255,7 @@ body {
 </div>
  
     <div class="chat-box" id="chatBox">
-        <div class="bot-message">
-            Hello! How can I help you today?
-            <a href="https://www.djyh.rw">KoraLink Official Website</a>
-        </div>
+        <div class="bot-message">Hello! How can I help you today? <a href="https://www.djyh.rw">KoraLink Official Website</a></div>
     </div>
  
     <div class="typing" id="typing">Bot is typing...</div>
@@ -261,21 +273,91 @@ body {
 </div>
  
 <script>
- 
+
+// Remembers the numbered options from the bot's most recent message,
+// e.g. { "1": "Store your balance.", "2": "Send money to other iKofi users." }
+// so a short follow-up like "1" can be resolved into a real question.
+let lastBotListItems = {};
+
 function toggleChat() {
     var box = document.getElementById("chatContainer");
     box.style.display = box.style.display === "flex" ? "none" : "flex";
 }
- 
+
+// Matches lines like "1. Store your balance." or "2) Send money"
+var LIST_ITEM_REGEX = /^\s*(\d{1,2})[\.\)]\s+(.+)$/;
+
+function extractListItems(text) {
+    var items = {};
+    text.split("\n").forEach(function (line) {
+        var match = line.match(LIST_ITEM_REGEX);
+        if (match) {
+            items[match[1]] = match[2].trim();
+        }
+    });
+    return items;
+}
+
 function addMessage(text, type) {
     var chatBox = document.getElementById("chatBox");
     var div = document.createElement("div");
     div.className = type + "-message";
-    div.textContent = text;
+
+    if (type === "bot") {
+        // Remember this message's numbered options for the next turn, and
+        // render each numbered line as a clickable option. If this reply
+        // doesn't contain a numbered list (e.g. it's a follow-up answer to
+        // an option the user already picked), keep the PREVIOUS list around
+        // instead of wiping it out, so "2" still resolves correctly even
+        // after an in-between reply with no list of its own.
+        var newItems = extractListItems(text);
+        if (Object.keys(newItems).length > 0) {
+            lastBotListItems = newItems;
+        }
+        renderBotMessage(div, text);
+    } else {
+        div.textContent = text;
+    }
+
     chatBox.appendChild(div);
     chatBox.scrollTop = chatBox.scrollHeight;
 }
- 
+
+function renderBotMessage(container, text) {
+    text.split("\n").forEach(function (line) {
+        var match = line.match(LIST_ITEM_REGEX);
+        var lineDiv = document.createElement("div");
+        lineDiv.textContent = line;
+        if (match) {
+            lineDiv.className = "list-option";
+            lineDiv.title = "Click to ask about this";
+            lineDiv.onclick = function () {
+                selectListOption(match[1]);
+            };
+        }
+        container.appendChild(lineDiv);
+    });
+}
+
+// Called when the user clicks a numbered option directly.
+function selectListOption(number) {
+    var input = document.getElementById("message");
+    input.value = number;
+    sendMessage();
+}
+
+// If the user's message is just a bare number that matches one of the
+// bot's last numbered options, expand it into a full question so the
+// backend/LLM gets real context instead of the digit "1" alone.
+function resolveFollowUp(message) {
+    var trimmed = message.trim();
+    var numMatch = trimmed.match(/^(\d{1,2})[\.\)]?$/);
+    if (numMatch && lastBotListItems[numMatch[1]]) {
+        return "Tell me more about: " + lastBotListItems[numMatch[1]];
+    }
+    return message;
+}
+
 function setTyping(visible) {
     document.getElementById("typing").style.display = visible ? "block" : "none";
     document.getElementById("sendBtn").disabled = visible;
@@ -285,19 +367,23 @@ function setTyping(visible) {
 async function sendMessage() {
     var input = document.getElementById("message");
     var language = document.getElementById("languageSelect").value;
-    var message = input.value.trim();
-    if (!message) return;
- 
-    addMessage(message, "user");
+    var rawMessage = input.value.trim();
+    if (!rawMessage) return;
+
+    // What the user typed stays in the chat bubble; what we actually
+    // send to the backend may be the expanded, resolved version.
+    var queryToSend = resolveFollowUp(rawMessage);
+
+    addMessage(rawMessage, "user");
     input.value = "";
     setTyping(true);
  
     try {
-        var response = await fetch("https://fictional-goggles-v6r45xwrp47r26x5p-5000.app.github.dev/chat", {
+        var response = await fetch("http://127.0.0.1:5000/chat", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             
-            body: JSON.stringify({ message: message, language: language })
+            body: JSON.stringify({ message: queryToSend, language: language })
         });
  
         if (!response.ok) {
