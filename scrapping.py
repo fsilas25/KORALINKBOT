@@ -1,10 +1,9 @@
-
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 import requests
 import numpy as np
 import bot
-import ollama_client
+import groq_client
 import pdf_source
 
 gotr = GoogleTranslator(source='auto', target='en')
@@ -110,7 +109,7 @@ def answer_finder(user_message):
     # answer the question and responds using only that.
     top_candidates = ranked_candidates[:MAX_CANDIDATES_FOR_LLM]
 
-    llm_answer = ollama_client.get_llm_answer(user_message, top_candidates)
+    llm_answer = groq_client.get_llm_answer(user_message, top_candidates)
     if llm_answer:
         return llm_answer
 
